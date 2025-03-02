@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.2)-->
+<Data template="cGcDefaultSaveData">
+	<Property name="State" value="GcPlayerStateData">
+		<Property name="WeaponLayout" value="GcInventoryLayout">
+			<Property name="Slots" value="60" />
+		</Property>
+	</Property>
+</Data>

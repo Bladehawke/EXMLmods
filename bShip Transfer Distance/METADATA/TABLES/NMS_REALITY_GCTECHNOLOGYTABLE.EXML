@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.2)-->
+<Data template="cGcTechnologyTable">
+  <Property name="Table">
+    <Property name="Table" value="GcTechnology" _id="SHIP_TELEPORT">
+      <Property name="StatBonuses">
+        <Property name="StatBonuses" value="GcStatsBonus" _index="0">
+          <Property name="Bonus" value="1000.000000" />
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
