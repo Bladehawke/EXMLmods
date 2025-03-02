@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.2)-->
+<Data template="cGcGameplayGlobals">
+  <Property name="WarpsBetweenBattles" value="999999999" />
+	<Property name="HoursBetweenBattles" value="999999999.000000" />
+  <Property name="ChanceOfPirateFreighterBattleOnWarpToSystem">
+    <Property name="Low" value="1.000000" />
+    <Property name="Default" value="1.000000" />
+    <Property name="High" value="1.000000" />
+    <Property name="Pirate" value="1.000000" />
+  </Property>
+</Data>

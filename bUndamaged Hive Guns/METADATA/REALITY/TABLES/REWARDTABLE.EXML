@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.2)-->
+<Data template="cGcRewardTable">
+  <Property name="InteractionTable">
+    <Property name="InteractionTable" value="GcGenericRewardTableEntry" _id="R_HIVE_GUN">
+      <Property name="List" value="GcRewardTableItemList">
+        <Property name="List">
+          <Property name="List" value="GcRewardTableItem" _index="0">
+            <Property name="Reward" value="GcRewardWeapon">
+              <Property name="GcRewardWeapon">
+                <Property name="ForceFixed" value="true" />
+              </Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
