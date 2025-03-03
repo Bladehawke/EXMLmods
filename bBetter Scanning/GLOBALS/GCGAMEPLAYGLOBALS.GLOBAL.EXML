@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.2)-->
+<Data template="cGcGameplayGlobals">
+  <Property name="SurveyMaxDistance" value="1000.000000" />
+  <Property name="TerrainResourceScanRange" value="2000.000000" />
+  <Property name="TerrainResourceCompassRange" value="200.000000" />
+  <Property name="BinocsDisplayUnknownCreatures" value="true" />
+  <Property name="BinocTimeBeforeScan" value="0.010000" />
+  <Property name="BinocMinScanTime" value="0.333000" />
+  <Property name="BinocScanTime" value="0.333000" />
+  <Property name="BinocCreatureScanTime" value="0.333000" />
+  <Property name="CreatureMinScanTime" value="0.010000" />
+  <Property name="BuildingBeamDistance" value="1200.000000" />
+  <Property name="WaypointScanTime" value="2.000000" />
+  <Property name="ZoomLevels">
+    <Property name="ZoomLevels" value="GcZoomData" _index="0">
+      <Property name="MaxScanDistance" value="20.000000" />
+    </Property>
+    <Property name="ZoomLevels" value="GcZoomData" _index="1">
+      <Property name="FoV" value="75.000000" />
+      <Property name="MaxScanDistance" value="50.000000" />
+      <Property name="WalkSpeed" value="1.000000" />
+    </Property>
+    <Property name="ZoomLevels" value="GcZoomData" _index="2">
+      <Property name="FoV" value="30.000000" />
+      <Property name="MinScanDistance" value="0.000000" />
+      <Property name="MaxScanDistance" value="150.000000" />
+      <Property name="WalkSpeed" value="1.000000" />
+    </Property>
+    <Property name="ZoomLevels" value="GcZoomData" _index="3">
+      <Property name="FoV" value="15.000000" />
+      <Property name="MinScanDistance" value="0.000000" />
+      <Property name="MaxScanDistance" value="1000.000000" />
+      <Property name="WalkSpeed" value="1.000000" />
+    </Property>
+    <Property name="PainTime" value="1.000000" />
+  </Property>
+</Data>
