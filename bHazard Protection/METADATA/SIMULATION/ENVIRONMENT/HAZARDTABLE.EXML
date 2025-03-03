@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.2)-->
+<Data template="cGcPlayerHazardTable">
+	<Property name="Table">
+    <Property name="ExtremeHeat" value="GcPlayerHazardData">
+      <Property name="ProtectionTime">
+        <Property name="X" value="1080.000000" />
+        <Property name="Y" value="80.000000" />
+      </Property>
+      <Property name="RechargeTime" value="5.000000" />
+      <Property name="OutputMinAddition" value="0.000000" />
+    </Property>
+    <Property name="ExtremeCold" value="GcPlayerHazardData">
+      <Property name="ProtectionTime">
+        <Property name="X" value="1080.000000" />
+        <Property name="Y" value="80.000000" />
+      </Property>
+      <Property name="RechargeTime" value="5.000000" />
+      <Property name="OutputMinAddition" value="0.000000" />
+    </Property>
+    <Property name="ToxicGas" value="GcPlayerHazardData">
+      <Property name="ProtectionTime">
+        <Property name="X" value="1080.000000" />
+        <Property name="Y" value="80.000000" />
+      </Property>
+      <Property name="RechargeTime" value="5.000000" />
+      <Property name="OutputMinAddition" value="0.000000" />
+    </Property>
+    <Property name="Radiation" value="GcPlayerHazardData">
+      <Property name="ProtectionTime">
+        <Property name="X" value="1080.000000" />
+        <Property name="Y" value="80.000000" />
+      </Property>
+      <Property name="RechargeTime" value="5.000000" />
+      <Property name="OutputMinAddition" value="0.000000" />
+    </Property>
+	</Property>
+</Data>
