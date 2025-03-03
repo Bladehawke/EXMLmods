@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.2)-->
+<Data template="cGcSolarGenerationGlobals">
+  <Property name="Asteroid Some Rares Odds" value="0.500000" />
+  <Property name="Rare Asteroid Min Resources" value="50" />
+  <Property name="Rare Asteroid Max Resources" value="130" />
+  <Property name="Common Asteroid Min Resources" value="30" />
+  <Property name="Common Asteroid Max Resources" value="65" />
+  <Property name="Rare Asteroid Resource Fuel Odds" value="0.200000" />
+  <Property name="Common Asteroid Resource Product Odds" value="0.500000" />
+  <Property name="Rare Asteroid Data Product Odds" value="0.010000" />
+  <Property name="Common Asteroid Resource Secondary Odds" value="0.500000" />
+</Data>
