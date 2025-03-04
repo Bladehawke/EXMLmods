@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcSpaceshipGlobals">
+  <Property name="LandingHoverOffset" value="0.000000" />
+  <Property name="LandingMaxSpeed" value="200.000000" />
+  <Property name="LandingMargin" value="2.500000" />
+  <Property name="LandingObstacleMinHeight" value="3.000000" />
+  <Property name="LandingTooManyLowPointsFraction" value="1.000000" />
+  <Property name="CockpitRollAngleHmd" value="0.000000" />
+  <Property name="CockpitRollAngle" value="0.000000" />
+  <Property name="CockpitRollAngleExtra" value="0.000000" />
+  <Property name="CockpitRollMultiplierCentre" value="0.000000" />
+  <Property name="CockpitRollMultiplierOpposite" value="0.000000" />
+  <Property name="WarpNexusRotation" value="0.000000" />
+  <Property name="WarpNexusPitch" value="0.000000" />
+  <Property name="WarpNexusDistance" value="-15000.000000" />
+  <Property name="3rdPersonRollAngle" value="0.000000" />
+  <Property name="3rdPersonRollAngleDropship" value="0.000000" />
+  <Property name="3rdPersonRollAngleScience" value="0.000000" />
+  <Property name="3rdPersonRollAngleAlien" value="0.000000" />
+  <Property name="3rdPersonPitchAngle" value="0.000000" />
+  <Property name="3rdPersonYawAngle" value="0.000000" />
+  <Property name="HoverSpeedFactor" value="10.000000" />
+  <Property name="HoverLandReachedDistance" value="4.000000" />
+  <Property name="AutoLevelWaterAngle" value="0.000000" />
+  <Property name="LandingPushNoseUpFactor" value="-0.100000" />
+  <Property name="GroundHeightSoft" value="-150.000000" />
+  <Property name="GroundHeightHard" value="-175.000000" />
+  <Property name="GroundHeightPostCollisionMultiplier" value="0.000000" />
+  <Property name="GroundHeightPostCollisionMultiplierTime" value="1.500000" />
+  <Property name="GroundHeightDownSpeedMultiplier" value="0.000000" />
+  <Property name="GroundHeightBrakeMultiplier" value="0.000000" />
+  <Property name="PitchCorrectSoftDownAngle" value="90.000000" />
+  <Property name="PitchCorrectMaxDownAngle" value="90.000000" />
+  <Property name="PitchCorrectMaxDownAngleWater" value="0.000000" />
+  <Property name="Control" value="GcPlayerSpaceshipControlData">
+    <Property name="SpaceEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="48.000000" />
+      <Property name="MaxSpeed" value="450.000000" />
+      <Property name="BoostThrustForce" value="350.000000" />
+      <Property name="BoostMaxSpeed" value="2520.000000" />
+      <Property name="TurnStrength" value="0.800000" />
+    </Property>
+    <Property name="PlanetEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="36.000000" />
+      <Property name="MaxSpeed" value="325.000000" />
+      <Property name="MinSpeed" value="0.100000" />
+      <Property name="BoostThrustForce" value="70.000000" />
+      <Property name="BoostMaxSpeed" value="960.000000" />
+      <Property name="TurnStrength" value="0.400000" />
+      <Property name="BalanceTimeMax" value="1.700000" />
+    </Property>
+    <Property name="CombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="48.000000" />
+      <Property name="MaxSpeed" value="200.000000" />
+      <Property name="BoostThrustForce" value="350.000000" />
+      <Property name="BoostMaxSpeed" value="2520.000000" />
+    </Property>
+    <Property name="AtmosCombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="48.000000" />
+      <Property name="MaxSpeed" value="200.000000" />
+      <Property name="BoostThrustForce" value="56.000000" />
+      <Property name="BoostMaxSpeed" value="294.000000" />
+    </Property>
+  </Property>
+  <Property name="ControlLight" value="GcPlayerSpaceshipControlData">
+    <Property name="SpaceEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="72.000000" />
+      <Property name="MaxSpeed" value="525.000000" />
+      <Property name="BoostThrustForce" value="420.000000" />
+      <Property name="BoostMaxSpeed" value="3150.000000" />
+      <Property name="TurnStrength" value="0.880000055" />
+    </Property>
+    <Property name="PlanetEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="48.000000" />
+      <Property name="MaxSpeed" value="375.000000" />
+      <Property name="MinSpeed" value="0.100000" />
+      <Property name="BoostThrustForce" value="140.000000" />
+      <Property name="BoostMaxSpeed" value="1080.000000" />
+      <Property name="TurnStrength" value="0.660000" />
+      <Property name="CombatEngine" value="GcPlayerSpaceshipEngineData">
+        <Property name="ThrustForce" value="72.000000" />
+        <Property name="MaxSpeed" value="225.000000" />
+        <Property name="MinSpeed" value="50.000000" />
+        <Property name="Falloff" value="0.700000" />
+        <Property name="MinSpeedForce" value="30.000000" />
+        <Property name="BoostThrustForce" value="420.000000" />
+        <Property name="BoostMaxSpeed" value="3150.000000" />
+      </Property>
+      <Property name="CombatEngine" value="GcPlayerSpaceshipEngineData">
+        <Property name="ThrustForce" value="72.000000" />
+        <Property name="MaxSpeed" value="225.000000" />
+        <Property name="BoostThrustForce" value="420.000000" />
+        <Property name="BoostMaxSpeed" value="3150.000000" />
+      </Property>
+      <Property name="AtmosCombatEngine" value="GcPlayerSpaceshipEngineData">
+        <Property name="ThrustForce" value="72.000000" />
+        <Property name="MaxSpeed" value="225.000000" />
+        <Property name="MinSpeed" value="10.000000" />
+        <Property name="Falloff" value="0.700000" />
+        <Property name="MinSpeedForce" value="30.000000" />
+        <Property name="BoostThrustForce" value="77.000000" />
+        <Property name="BoostMaxSpeed" value="336.000000" />
+      </Property>
+    </Property>
+  </Property>
+  <Property name="ControlHeavy" value="GcPlayerSpaceshipControlData">
+    <Property name="SpaceEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="36.000000" />
+      <Property name="MaxSpeed" value="375.000000" />
+      <Property name="MinSpeedForce" value="400.000000" />
+      <Property name="BoostThrustForce" value="35.000000" />
+      <Property name="BoostMaxSpeed" value="2100.000000" />
+      <Property name="TurnStrength" value="0.480000019" />
+    </Property>
+    <Property name="PlanetEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="24.000000" />
+      <Property name="MaxSpeed" value="275.000000" />
+      <Property name="MinSpeed" value="0.100000" />
+      <Property name="BoostThrustForce" value="35.000000" />
+      <Property name="BoostMaxSpeed" value="840.000000" />
+      <Property name="TurnStrength" value="0.280000" />
+      <Property name="BalanceTimeMin" value="0.600000" />
+      <Property name="BalanceTimeMax" value="1.700000" />
+    </Property>
+    <Property name="CombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="36.000000" />
+      <Property name="MaxSpeed" value="175.000000" />
+      <Property name="BoostThrustForce" value="280.000000" />
+      <Property name="BoostMaxSpeed" value="2100.000000" />
+    </Property>
+    <Property name="AtmosCombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="ThrustForce" value="36.000000" />
+      <Property name="MaxSpeed" value="175.000000" />
+      <Property name="BoostThrustForce" value="42.000000" />
+      <Property name="BoostMaxSpeed" value="252.000000" />
+    </Property>
+  </Property>
+  <Property name="ControlHover" value="GcPlayerSpaceshipControlData">
+  <Property name="SpaceEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="BalanceTimeMin" value="9999.000000" />
+      <Property name="BalanceTimeMax" value="9999.000000" /></Property>
+		<Property name="PlanetEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="MinSpeed"
+        value="0.100000" />
+      <Property name="BalanceTimeMin" value="9999.000000" />
+      <Property name="BalanceTimeMax" value="9999.000000" /></Property>
+		<Property name="CombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="BalanceTimeMin" value="9999.000000" />
+      <Property name="BalanceTimeMax" value="9999.000000" />	</Property>
+		<Property name="AtmosCombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="BalanceTimeMin" value="9999.000000" />
+      <Property name="BalanceTimeMax" value="9999.000000" /></Property></Property>
+  <Property name="ControlBonusC" value="GcPlayerSpaceshipClassBonuses">
+    <Property name="ThrustForceMax" value="36.000000" />
+    <Property name="ThrustForceMin" value="-6.000000" />
+    <Property name="MaxSpeedMax" value="12.500000" />
+    <Property name="MaxSpeedMin" value="0.000000" />
+    <Property name="BoostMaxSpeedMax" value="10.500000" />
+    <Property name="BoostMaxSpeedMin" value="0.000000" />
+    <Property name="DirectionBrakeMin" value="0.200000" />
+    <Property name="DirectionBrakeMax" value="-0.250000" />
+    <Property name="TurnStrengthMax" value="-0.0400000028" />
+    <Property name="TurnStrengthMin" value="0.0400000028" />
+  </Property>
+  <Property name="ControlBonusB" value="GcPlayerSpaceshipClassBonuses">
+    <Property name="ThrustForceMax" value="72.000000" />
+    <Property name="ThrustForceMin" value="24.000000" />
+    <Property name="MaxSpeedMax" value="12.500000" />
+    <Property name="BoostMaxSpeedMax" value="10.500000" />
+    <Property name="DirectionBrakeMin" value="-0.200000" />
+    <Property name="DirectionBrakeMax" value="0.200000" />
+    <Property name="TurnStrengthMax" value="0.0800000057" />
+  </Property>
+  <Property name="ControlBonusA" value="GcPlayerSpaceshipClassBonuses">
+    <Property name="ThrustForceMax" value="120.000008" />
+    <Property name="ThrustForceMin" value="60.0000038" />
+    <Property name="MaxSpeedMax" value="50.000000" />
+    <Property name="MaxSpeedMin" value="7.500000" />
+    <Property name="BoostMaxSpeedMax" value="21.000000" />
+    <Property name="BoostMaxSpeedMin" value="10.500000" />
+    <Property name="DirectionBrakeMin" value="-0.200000" />
+    <Property name="DirectionBrakeMax" value="0.200000" />
+    <Property name="TurnStrengthMax" value="0.120000005" />
+  </Property>
+  <Property name="ControlBonusS" value="GcPlayerSpaceshipClassBonuses">
+    <Property name="ThrustForceMax" value="300.000000" />
+    <Property name="ThrustForceMin" value="60.0000038" />
+    <Property name="MaxSpeedMax" value="75.000000" />
+    <Property name="MaxSpeedMin" value="37.500000" />
+    <Property name="BoostMaxSpeedMax" value="31.500000" />
+    <Property name="BoostMaxSpeedMin" value="10.500000" />
+    <Property name="DirectionBrakeMin" value="-0.100000" />
+    <Property name="DirectionBrakeMax" value="0.200000" />
+    <Property name="TurnStrengthMax" value="0.200000" />
+    <Property name="TurnStrengthMin" value="0.0800000057" />
+  </Property>
+  <Property name="NoBoostStationDistance" value="1000.000000" />
+  <Property name="NoBoostAnomalyDistance" value="1000.000000" />
+  <Property name="NoBoostFreighterDistance" value="600.000000" />
+  <Property name="NoBoostFreighterAngle" value="30.000000" />
+  <Property name="NoBoostShipNearMinTime" value="15.000000" />
+  <Property name="NoBoostShipLastHitTime" value="20.000000" />
+  <Property name="NoBoostCombatEventMinBattleTime" value="20.000000" />
+  <Property name="NoBoostCombatEventMinFreighterBattleTime" value="30.000000" />
+  <Property name="NoBoostCombatEventTime" value="45.000000" />
+  <Property name="HitAsteroidDamage" value="100000" />
+  <Property name="TurnRudderStrength" value="0.600000" />
+  <Property name="MiniWarpFuelTime" value="0.250000" />
+  <Property name="MiniWarpSpeed" value="42000.000000" />
+  <Property name="MiniWarpTopSpeedTime" value="5.000000" />
+  <Property name="MiniWarpCooldownTime" value="5.000000" />
+  <Property name="MiniWarpStoppingMarginPlanet" value="5000000.000000" />
+  <Property name="MiniWarpStoppingMarginDefault" value="3125000.000000" />
+  <Property name="MiniWarpStoppingMarginLong" value="6125000.000000" />
+  <Property name="MiniWarpExitSpeed " value="8000.000000" />
+  <Property name="MiniWarpExitSpeedStation " value="4000.000000" />
+  <Property name="MiniWarpHUDArrowAttractAngle" value="5.000000" />
+  <Property name="MiniWarpHUDArrowAttractAngleStation" value="3.000000" />
+  <Property name="MiniWarpHUDArrowAttractAngleDense" value="3.000000" />
+  <Property name="LandSlopeMax" value="45.000000" />
+  <Property name="LootAttractDistance" value="4500.000000" />
+  <Property name="LaunchThrustersRegenTimePeriod" value="600.000000" />
+</Data>
