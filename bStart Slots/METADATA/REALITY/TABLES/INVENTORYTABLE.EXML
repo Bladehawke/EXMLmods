@@ -1,28 +1,374 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version
-(5.58.0.2)-->
 <Data template="cGcInventoryTable">
   <Property name="GenerationData" value="GcInventoryLayoutGenerationData">
     <Property name="GenerationDataPerSizeType">
+      <Property name="SciSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="SciMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="SciLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="FgtSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="FgtMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="FgtLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="ShuSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="ShtMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="ShtLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="DrpSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="DrpMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="DrpLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="RoySmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="RoyMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="RoyLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="AlienSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="AlienMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="AlienLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="SailSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="SailMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="SailLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="RobotSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="RobotMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="RobotLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="WeaponSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxWidthStandard" value="10" />
+          <Property name="MaxHeightStandard" value="12" />
+          <Property name="MaxHeightLarge" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxWidthStandard" value="10" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="WeaponMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxWidthStandard" value="10" />
+          <Property name="MaxHeightStandard" value="12" />
+          <Property name="MaxHeightLarge" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxWidthStandard" value="10" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="WeaponLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+          <Property name="MaxHeightLarge" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="FreighterSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="FreighterMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
+      <Property name="FreighterLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
+        </Property>
+      </Property>
       <Property name="VehicleSmall" value="GcInventoryLayoutGenerationDataEntry">
-        <Property name="MinSlots" value="120" />
-        <Property name="MaxSlots" value="120" />
-        <Property name="MinTechSlots" value="60" />
-        <Property name="MaxTechSlots" value="60" />
-      </Property>
-      <Property name="VehicleMedium" value="GcInventoryLayoutGenerationDataEntry">
-        <Property name="MinSlots" value="120" />
-        <Property name="MaxSlots" value="120" />
-        <Property name="MinTechSlots" value="60" />
-        <Property name="MaxTechSlots" value="60" />
-      </Property>
-      <Property name="VehicleLarge" value="GcInventoryLayoutGenerationDataEntry">
-        <Property name="MinSlots" value="120" />
-        <Property name="MaxSlots" value="120" />
-        <Property name="MinTechSlots" value="60" />
-        <Property name="MaxTechSlots" value="60" />
-      </Property>
-      <Property name="Suit" value="GcInventoryLayoutGenerationDataEntry">
         <Property name="MinSlots" value="120" />
         <Property name="MaxSlots" value="120" />
         <Property name="MinTechSlots" value="60" />
@@ -32,131 +378,258 @@
           <Property name="MaxHeightSmall" value="12" />
           <Property name="MaxHeightStandard" value="12" />
         </Property>
-      </Property>
-    </Property>
-    <Property name="ShipInventoryMaxUpgradeSize">
-      <Property name="Freighter" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="33" />
-          <Property name="B" value="55" />
-          <Property name="A" value="77" />
-          <Property name="S" value="99" />
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
         </Property>
       </Property>
-      <Property name="Dropship" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="33" />
-          <Property name="B" value="55" />
-          <Property name="A" value="77" />
-          <Property name="S" value="99" />
+      <Property name="VehicleMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
+        </Property>
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
         </Property>
       </Property>
-      <Property name="Fighter" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxInventoryCapacity">
-          <Property name="C" value="60" />
-          <Property name="B" value="80" />
-          <Property name="A" value="100" />
-          <Property name="S" value="120" />
+      <Property name="VehicleLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+        <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxWidthSmall" value="10" />
+          <Property name="MaxHeightSmall" value="12" />
+          <Property name="MaxHeightStandard" value="12" />
         </Property>
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="33" />
-          <Property name="B" value="55" />
-          <Property name="A" value="77" />
-          <Property name="S" value="99" />
-        </Property>
-      </Property>
-      <Property name="Scientific" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxInventoryCapacity">
-          <Property name="C" value="60" />
-          <Property name="B" value="80" />
-          <Property name="A" value="100" />
-          <Property name="S" value="120" />
-        </Property>
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="33" />
-          <Property name="B" value="55" />
-          <Property name="A" value="77" />
-          <Property name="S" value="99" />
-        </Property>
-      </Property>
-      <Property name="Shuttle" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxInventoryCapacity">
-          <Property name="C" value="60" />
-          <Property name="B" value="80" />
-          <Property name="A" value="100" />
-          <Property name="S" value="120" />
-        </Property>
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="33" />
-          <Property name="B" value="55" />
-          <Property name="A" value="77" />
-          <Property name="S" value="99" />
-        </Property>
-      </Property>
-      <Property name="Royal" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxInventoryCapacity">
-          <Property name="C" value="120" />
-          <Property name="B" value="120" />
-          <Property name="A" value="120" />
-          <Property name="S" value="120" />
-        </Property>
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="99" />
-          <Property name="B" value="99" />
-          <Property name="A" value="99" />
-          <Property name="S" value="99" />
-        </Property>
-      </Property>
-      <Property name="Alien" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxInventoryCapacity">
-          <Property name="C" value="120" />
-          <Property name="B" value="120" />
-          <Property name="A" value="120" />
-          <Property name="S" value="120" />
-        </Property>
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="99" />
-          <Property name="B" value="99" />
-          <Property name="A" value="99" />
-          <Property name="S" value="99" />
-        </Property>
-      </Property>
-      <Property name="Sail" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxInventoryCapacity">
-          <Property name="C" value="60" />
-          <Property name="B" value="80" />
-          <Property name="A" value="100" />
-          <Property name="S" value="120" />
-        </Property>
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="33" />
-          <Property name="B" value="55" />
-          <Property name="A" value="77" />
-          <Property name="S" value="99" />
-        </Property>
-      </Property>
-      <Property name="Robot" value="GcShipInventoryMaxUpgradeCapacity">
-        <Property name="MaxInventoryCapacity">
-          <Property name="C" value="60" />
-          <Property name="B" value="80" />
-          <Property name="A" value="100" />
-          <Property name="S" value="120" />
-        </Property>
-        <Property name="MaxTechInventoryCapacity">
-          <Property name="C" value="33" />
-          <Property name="B" value="55" />
-          <Property name="A" value="77" />
-          <Property name="S" value="99" />
+        <Property name="TechBounds" value="GcInventoryLayoutGenerationBounds">
+          <Property name="MaxHeightSmall" value="6" />
+          <Property name="MaxHeightStandard" value="6" />
         </Property>
       </Property>
     </Property>
-    <Property name="WeaponInventoryMaxUpgradeSize" value="GcWeaponInventoryMaxUpgradeCapacity">
+    <Property name="Suit" value="GcInventoryLayoutGenerationDataEntry">
+      <Property name="Bounds" value="GcInventoryLayoutGenerationBounds">
+        <Property name="MaxWidthSmall" value="10" />
+        <Property name="MaxHeightSmall" value="12" />
+        <Property name="MaxHeightStandard" value="12" />
+      </Property>
+    </Property>
+  </Property>
+  <Property name="ShipInventoryMaxUpgradeSize">
+    <Property name="Freighter" value="GcShipInventoryMaxUpgradeCapacity">
       <Property name="MaxInventoryCapacity">
-        <Property name="C" value="33" />
-        <Property name="B" value="55" />
-        <Property name="A" value="77" />
-        <Property name="S" value="99" />
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
       </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Dropship" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Fighter" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Scientific" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Shuttle" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="PlayerFreighter" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Royal" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Alien" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Sail" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+    <Property name="Robot" value="GcShipInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+      <Property name="MaxTechInventoryCapacity">
+        <Property name="C" value="60" />
+        <Property name="B" value="60" />
+        <Property name="A" value="60" />
+        <Property name="S" value="60" />
+      </Property>
+      <Property name="MaxCargoInventoryCapacity">
+        <Property name="C" value="0" />
+        <Property name="B" value="0" />
+        <Property name="A" value="0" />
+        <Property name="S" value="0" />
+      </Property>
+    </Property>
+  </Property>
+  <Property name="WeaponInventoryMaxUpgradeSize" value="GcWeaponInventoryMaxUpgradeCapacity">
+    <Property name="MaxInventoryCapacity">
+      <Property name="C" value="60" />
+      <Property name="B" value="60" />
+      <Property name="A" value="60" />
+      <Property name="S" value="60" />
     </Property>
   </Property>
 </Data>

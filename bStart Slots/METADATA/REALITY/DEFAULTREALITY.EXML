@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (5.58.0.2)-->
 <Data template="cGcRealityManagerData">
   <Property name="SuitStartingSlotLayout" value="GcInventoryLayout">
     <Property name="Slots" value="120" />
@@ -11,6 +10,6 @@
     <Property name="Slots" value="120" />
   </Property>
   <Property name="ShipTechOnlyStartingLayout" value="GcInventoryLayout">
-    <Property name="Slots" value="120" />
+    <Property name="Slots" value="60" />
   </Property>
 </Data>
