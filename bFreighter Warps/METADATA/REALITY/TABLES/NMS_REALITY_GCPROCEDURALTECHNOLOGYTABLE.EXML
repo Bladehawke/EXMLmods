@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcProceduralTechnologyTable">
+	<Property name="Table">
+		<Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP1">
+			<Property name="StatLevels">
+				<Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+					<Property name="ValueMin" value="400.000000" />
+					<Property name="ValueMax" value="800.000000" />
+				</Property>
+			</Property>
+			<Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP2">
+				<Property name="StatLevels">
+					<Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+						<Property name="ValueMin" value="800.000000" />
+						<Property name="ValueMax" value="1200.000000" />
+					</Property>
+				</Property>
+			</Property>
+			<Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP3">
+				<Property name="StatLevels">
+					<Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+						<Property name="ValueMin" value="1200.000000" />
+						<Property name="ValueMax" value="1600.000000" />
+					</Property>
+				</Property>
+			</Property>
+			<Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP4">
+				<Property name="StatLevels">
+					<Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+						<Property name="ValueMin" value="1600.000000" />
+						<Property name="ValueMax" value="2000.000000" />
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+</Data>
