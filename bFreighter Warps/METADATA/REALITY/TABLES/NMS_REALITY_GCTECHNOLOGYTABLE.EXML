@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcTechnologyTable">
+	<Property name="Table">
+    <!--<Property name="Table" value="GcTechnology" _id="LAUNCHER">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="1">
+					<Property name="Bonus" value="41.000000" />
+				</Property>
+			</Property>
+		</Property>
+    -->
+		<Property name="Table" value="GcTechnology" _id="HYPERDRIVE">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="1">
+					<Property name="Bonus" value="150.000000" />
+				</Property>
+				<Property name="StatBonuses" value="GcStatsBonus" _index="2">
+					<Property name="Bonus" value="2.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HYPERDRIVE">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="800.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HDRIVEBOOST1">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="1000.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HDRIVEBOOST2">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="1500.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HDRIVEBOOST3">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="4000.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HACCESS1">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="500.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HACCESS2">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="500.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HACCESS3">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="500.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="F_HACCESS4">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="0">
+					<Property name="Bonus" value="500.000000" />
+				</Property>
+			</Property>
+		</Property>
+		<!--<Property name="Table" value="GcTechnology" _id="LAUNCHER_ALIEN">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="1">
+					<Property name="Bonus" value="41.000000" />
+				</Property>
+			</Property>
+		</Property>
+    -->
+		<Property name="Table" value="GcTechnology" _id="WARP_ALIEN">
+			<Property name="StatBonuses">
+				<Property name="StatBonuses" value="GcStatsBonus" _index="1">
+					<Property name="Bonus" value="150.000000" />
+				</Property>
+				<Property name="StatBonuses" value="GcStatsBonus" _index="2">
+					<Property name="Bonus" value="2.000000" />
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+</Data>
