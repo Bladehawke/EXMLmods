@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcRewardTable">
+  <Property name="SpecialRewardTable">
+    <Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_STARCHART_A">
+      <Property name="List" value="GcRewardTableItemList">
+        <Property name="List">
+          <Property name="List" value="GcRewardTableItem" _index="0">
+            <Property name="PercentageChance" value="20.000000" />
+          </Property>
+          <Property name="List" value="GcRewardTableItem" _index="1">
+            <Property name="PercentageChance" value="40.000000" />
+          </Property>
+          <Property name="List" value="GcRewardTableItem" _index="2">
+            <Property name="PercentageChance" value="20.000000" />
+          </Property>
+          <Property name="List" value="GcRewardTableItem">
+            <Property name="PercentageChance" value="20.000000" />
+            <Property name="LabelID" value="Base" />
+            <Property name="Reward" value="GcRewardScanEvent">
+              <Property name="GcRewardScanEvent">
+                <Property name="Event" value="BASE" />
+                <Property name="ScanEventTable" value="Planet" />
+                <Property name="DoAerialScan" value="true" />
+                <Property name="UseMissionSeedForEvent" value="false" />
+                <Property name="StartDelay" value="6.000000" />
+                <Property name="UseStartDelayWhenNoAerialScan" value="false" />
+                <Property name="ForceSilentFailure" value="false" />
+                <Property name="FailureOSD" value="" />
+              </Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+    <Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="RANDOM_SCAN_A">
+      <Property name="List" value="GcRewardTableItemList">
+        <Property name="List">
+          <Property name="List" value="GcRewardTableItem" _index="0">
+            <Property name="PercentageChance" value="20.000000" />
+          </Property>
+          <Property name="List" value="GcRewardTableItem" _index="1">
+            <Property name="PercentageChance" value="40.000000" />
+          </Property>
+          <Property name="List" value="GcRewardTableItem" _index="2">
+            <Property name="PercentageChance" value="20.000000" />
+          </Property>
+          <Property name="List" value="GcRewardTableItem">
+            <Property name="PercentageChance" value="20.000000" />
+            <Property name="LabelID" value="Base" />
+            <Property name="Reward" value="GcRewardScanEvent">
+              <Property name="GcRewardScanEvent">
+                <Property name="Event" value="BASE" />
+                <Property name="ScanEventTable" value="Planet" />
+                <Property name="DoAerialScan" value="true" />
+                <Property name="UseMissionSeedForEvent" value="false" />
+                <Property name="StartDelay" value="6.000000" />
+                <Property name="UseStartDelayWhenNoAerialScan" value="false" />
+                <Property name="ForceSilentFailure" value="false" />
+                <Property name="FailureOSD" value="" />
+              </Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>

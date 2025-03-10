@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcBuildingDefinitionTable">
+	<Property name="BuildingPlacement">
+		<Property name="Base" value="GcBuildingDefinitionData">
+			<Property name="ClusterLayout" value="SINGLE_WAYPOINT" />
+		</Property>
+	</Property>
+</Data>
