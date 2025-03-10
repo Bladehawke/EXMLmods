@@ -10,9 +10,11 @@
   <Property name="CockpitRollAngleExtra" value="0.000000" />
   <Property name="CockpitRollMultiplierCentre" value="0.000000" />
   <Property name="CockpitRollMultiplierOpposite" value="0.000000" />
+  <!--
   <Property name="WarpNexusRotation" value="0.000000" />
   <Property name="WarpNexusPitch" value="0.000000" />
   <Property name="WarpNexusDistance" value="-15000.000000" />
+  -->
   <Property name="3rdPersonRollAngle" value="0.000000" />
   <Property name="3rdPersonRollAngleDropship" value="0.000000" />
   <Property name="3rdPersonRollAngleScience" value="0.000000" />
@@ -136,20 +138,25 @@
     </Property>
   </Property>
   <Property name="ControlHover" value="GcPlayerSpaceshipControlData">
-  <Property name="SpaceEngine" value="GcPlayerSpaceshipEngineData">
+    <Property name="SpaceEngine" value="GcPlayerSpaceshipEngineData">
       <Property name="BalanceTimeMin" value="9999.000000" />
-      <Property name="BalanceTimeMax" value="9999.000000" /></Property>
-		<Property name="PlanetEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="BalanceTimeMax" value="9999.000000" />
+    </Property>
+    <Property name="PlanetEngine" value="GcPlayerSpaceshipEngineData">
       <Property name="MinSpeed"
         value="0.100000" />
       <Property name="BalanceTimeMin" value="9999.000000" />
-      <Property name="BalanceTimeMax" value="9999.000000" /></Property>
-		<Property name="CombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="BalanceTimeMax" value="9999.000000" />
+    </Property>
+    <Property name="CombatEngine" value="GcPlayerSpaceshipEngineData">
       <Property name="BalanceTimeMin" value="9999.000000" />
-      <Property name="BalanceTimeMax" value="9999.000000" />	</Property>
-		<Property name="AtmosCombatEngine" value="GcPlayerSpaceshipEngineData">
+      <Property name="BalanceTimeMax" value="9999.000000" />
+    </Property>
+    <Property name="AtmosCombatEngine" value="GcPlayerSpaceshipEngineData">
       <Property name="BalanceTimeMin" value="9999.000000" />
-      <Property name="BalanceTimeMax" value="9999.000000" /></Property></Property>
+      <Property name="BalanceTimeMax" value="9999.000000" />
+    </Property>
+  </Property>
   <Property name="ControlBonusC" value="GcPlayerSpaceshipClassBonuses">
     <Property name="ThrustForceMax" value="36.000000" />
     <Property name="ThrustForceMin" value="-6.000000" />
