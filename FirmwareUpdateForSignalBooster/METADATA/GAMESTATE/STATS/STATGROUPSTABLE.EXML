@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcStatGroupTable">
+	<Property name="StatGroupTable">
+		<Property name="StatGroupTable" value="GcStatGroupData" _index="0">
+			<Property name="TrackedStats">
+				<Property name="TrackedStats" value="GL_SCAN_FIX" />
+			</Property>
+		</Property>
+	</Property>
+</Data>

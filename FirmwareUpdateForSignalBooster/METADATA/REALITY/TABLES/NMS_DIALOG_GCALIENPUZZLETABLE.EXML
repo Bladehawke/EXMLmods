@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.3)-->
+<Data template="cGcAlienPuzzleTable">
+	<Property name="Table">
+		<Property name="Table" value="GcAlienPuzzleEntry" _id="SIGNALSCANNER" _remove="">
+		</Property>
+	</Property>
+</Data>

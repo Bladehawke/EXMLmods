@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.3)-->
+<Data template="cGcRewardTable">
+	<Property name="SpecialRewardTable">
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_SHLT">
+			<Property name="Id" value="R_GL_SHLT" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_SHLT" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_PORT">
+			<Property name="Id" value="R_GL_PORT" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_PORT" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_DIST">
+			<Property name="Id" value="R_GL_DIST" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_DIST" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_SHOP">
+			<Property name="Id" value="R_GL_SHOP" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_SHOP" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_FACT">
+			<Property name="Id" value="R_GL_FACT" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_FACT" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_DPOD">
+			<Property name="Id" value="R_GL_DPOD" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_DPOD" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_LBRY">
+			<Property name="Id" value="R_GL_LBRY" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_LBRY" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_CRFR">
+			<Property name="Id" value="R_GL_CRFR" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_CRFR" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_OBSV">
+			<Property name="Id" value="R_GL_OBSV" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_OBSV" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_OUTP">
+			<Property name="Id" value="R_GL_OUTP" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_OUTP" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_DRHV">
+			<Property name="Id" value="R_GL_DRHV" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_DRHV" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_GRV">
+			<Property name="Id" value="R_GL_GRV" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_GRV" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_BASE">
+			<Property name="Id" value="R_GL_BASE" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_BASE" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_GLCH">
+			<Property name="Id" value="R_GL_GLCH" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_GLCH" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_ABAN">
+			<Property name="Id" value="R_GL_ABAN" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_ABAN" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_RBCP">
+			<Property name="Id" value="R_GL_RBCP" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_RBCP" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_DRCS">
+			<Property name="Id" value="R_GL_DRCS" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_DRCS" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_GL_SETL">
+			<Property name="Id" value="R_GL_SETL" />
+			<Property name="List" value="GcRewardTableItemList">
+				<Property name="RewardChoice" value="TryFirst_ThenSelectAlways" />
+				<Property name="OverrideZeroSeed" value="false" />
+				<Property name="UseInventoryChoiceOverride" value="false" />
+				<Property name="IncrementStat" value="" />
+				<Property name="List">
+					<Property name="List" value="GcRewardTableItem" _index="0">
+						<Property name="PercentageChance" value="0.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardScanEvent">
+							<Property name="GcRewardScanEvent">
+								<Property name="Event" value="SE_GL_SETL" />
+								<Property name="ScanEventTable" value="Planet" />
+								<Property name="DoAerialScan" value="false" />
+								<Property name="UseMissionSeedForEvent" value="false" />
+								<Property name="StartDelay" value="6.000000" />
+								<Property name="UseStartDelayWhenNoAerialScan" value="false" />
+								<Property name="ForceSilentFailure" value="false" />
+								<Property name="FailureOSD" value="" />
+							</Property>
+						</Property>
+					</Property>
+					<Property name="List" value="GcRewardTableItem" _index="1">
+						<Property name="PercentageChance" value="100.000000" />
+						<Property name="LabelID" value="" />
+						<Property name="Reward" value="GcRewardMissionMessage">
+							<Property name="GcRewardMissionMessage">
+								<Property name="MessageID" value="M_GL_FIX_END" />
+								<Property name="BroadcastInMultiplayer" value="false" />
+							</Property>
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+</Data>

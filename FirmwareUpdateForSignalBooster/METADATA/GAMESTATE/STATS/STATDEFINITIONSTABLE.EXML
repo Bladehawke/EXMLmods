@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcStatDefinitionTable">
+	<Property name="StatDefinitionTable">
+		<Property name="StatDefinitionTable" value="GcStatDefinition" _id="GL_SCAN_FIX">
+			<Property name="Type" value="GcStatType">
+				<Property name="StatType" value="Int" />
+			</Property>
+			<Property name="TrackType" value="GcStatTrackType">
+				<Property name="StatTrackType" value="Set" />
+			</Property>
+			<Property name="DisplayType" value="GcStatDisplayType">
+				<Property name="StatDisplayType" value="None" />
+			</Property>
+			<Property name="DefaultValue" value="GcStatValueData">
+				<Property name="IntValue" value="0" />
+				<Property name="FloatValue" value="0.000000" />
+				<Property name="Denominator" value="0.000000" />
+			</Property>
+			<Property name="Id" value="GL_SCAN_FIX" />
+			<Property name="TelemetryUpload" value="false" />
+			<Property name="IsProgression" value="false" />
+		  <Property name="MissionMessageDecimals" value="0" />
+		</Property>
+	</Property>
+</Data>
