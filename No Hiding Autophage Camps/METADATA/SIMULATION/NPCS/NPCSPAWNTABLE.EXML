@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcNPCSpawnTable">
+  <Property name="PlacementInfos">
+    <Property name="PlacementInfos" value="GcNPCPlacementInfo" _index="51">
+      <Property name="UseScanToRevealData" value="false" />
+    </Property>
+    <Property name="PlacementInfos" value="GcNPCPlacementInfo" _index="52">
+      <Property name="UseScanToRevealData" value="false" />
+    </Property>
+    <Property name="PlacementInfos" value="GcNPCPlacementInfo" _index="53">
+      <Property name="UseScanToRevealData" value="false" />
+    </Property>
+  </Property>
+</Data>
