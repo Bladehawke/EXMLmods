@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcMissionTable">
+  <Property name="Missions">
+    <Property name="Missions" value="GcGenericMissionSequence" _id="BIO_FRIG">
+      <Property name="RestartOnCompletion" value="true" />
+      <Property name="CancelingConditions" />
+      <Property name="Stages">
+        <Property name="Stages" value="GcGenericMissionStage" _index="0">
+          <Property name="Stage" value="GcMissionSequenceGroup">
+            <Property name="GcMissionSequenceGroup">
+              <Property name="Stages">
+                <Property name="Stages" value="GcGenericMissionStage" _index="0">
+                  <Property name="Stage" value="GcMissionSequenceGroup">
+                    <Property name="GcMissionSequenceGroup">
+                      <Property name="Stages">
+                        <Property name="Stages" value="GcGenericMissionStage" _index="3">
+                          <Property name="Stage" value="GcMissionSequenceGroup">
+                            <Property name="GcMissionSequenceGroup">
+                              <Property name="Stages">
+                                <Property name="Stages" value="GcGenericMissionStage" _index="0">
+                                  <Property name="PulseEncounterID" value="BIO_FRIG" />
+                                </Property>
+                              </Property>
+                            </Property>
+                          </Property>
+                        </Property>
+                      </Property>
+                    </Property>
+                  </Property>
+                </Property>
+              </Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
