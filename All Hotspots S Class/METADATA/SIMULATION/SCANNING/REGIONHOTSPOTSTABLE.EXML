@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcRegionHotspotsTable">
+  <Property name="RegionHotspots">
+    <Property name="Power" value="GcRegionHotspotData">
+      <Property name="ClassWeightings">
+        <Property name="C" value="0.000000" />
+        <Property name="B" value="0.000000" />
+        <Property name="A" value="0.000000" />
+        <Property name="S" value="100.000000" />
+      </Property>
+    </Property>
+    <Property name="Mineral1" value="GcRegionHotspotData">
+      <Property name="ClassWeightings">
+        <Property name="C" value="0.000000" />
+        <Property name="B" value="0.000000" />
+        <Property name="A" value="0.000000" />
+        <Property name="S" value="100.000000" />
+      </Property>
+    </Property>
+    <Property name="Mineral2" value="GcRegionHotspotData">
+      <Property name="ClassWeightings">
+        <Property name="C" value="0.000000" />
+        <Property name="B" value="0.000000" />
+        <Property name="A" value="0.000000" />
+        <Property name="S" value="100.000000" />
+      </Property>
+    </Property>
+    <Property name="Mineral3" value="GcRegionHotspotData">
+      <Property name="ClassWeightings">
+        <Property name="C" value="0.000000" />
+        <Property name="B" value="0.000000" />
+        <Property name="A" value="0.000000" />
+        <Property name="S" value="100.000000" />
+      </Property>
+    </Property>
+    <Property name="Gas1" value="GcRegionHotspotData">
+      <Property name="ClassWeightings">
+        <Property name="C" value="0.000000" />
+        <Property name="B" value="0.000000" />
+        <Property name="A" value="0.000000" />
+        <Property name="S" value="100.000000" />
+      </Property>
+    </Property>
+    <Property name="Gas2" value="GcRegionHotspotData">
+      <Property name="ClassWeightings">
+        <Property name="C" value="0.000000" />
+        <Property name="B" value="0.000000" />
+        <Property name="A" value="0.000000" />
+        <Property name="S" value="100.000000" />
+      </Property>
+    </Property>
+  </Property>
+</Data>

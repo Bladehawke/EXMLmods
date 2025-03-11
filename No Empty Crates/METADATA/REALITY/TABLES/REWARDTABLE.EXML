@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcRewardTable">
+  <Property name="Table">
+    <Property name="Table" value="GcRewardTableEntry" _id="CRATE">
+      <Property name="Id" value="CRATE" />
+      <Property name="Rarities">
+        <Property name="Common" value="GcRewardTableCategory">
+          <Property name="Sizes">
+            <Property name="Small" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Medium" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Large" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+          </Property>
+        </Property>
+        <Property name="Uncommon" value="GcRewardTableCategory">
+          <Property name="Sizes">
+            <Property name="Small" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Medium" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Large" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+          </Property>
+        </Property>
+        <Property name="Rare" value="GcRewardTableCategory">
+          <Property name="Sizes">
+            <Property name="Small" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+          </Property>
+          <Property name="Medium" value="GcRewardTableItemList">
+            <Property name="RewardChoice" value="SelectAlways" />
+            <Property name="Large" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcRewardTableEntry" _id="BARREL">
+      <Property name="Rarities">
+        <Property name="Common" value="GcRewardTableCategory">
+          <Property name="Sizes">
+            <Property name="Small" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Medium" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Large" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+          </Property>
+        </Property>
+        <Property name="Uncommon" value="GcRewardTableCategory">
+          <Property name="Sizes">
+            <Property name="Small" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Medium" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Large" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+          </Property>
+        </Property>
+        <Property name="Rare" value="GcRewardTableCategory">
+          <Property name="Sizes">
+            <Property name="Small" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Medium" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+            <Property name="Large" value="GcRewardTableItemList">
+              <Property name="RewardChoice" value="SelectAlways" />
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
