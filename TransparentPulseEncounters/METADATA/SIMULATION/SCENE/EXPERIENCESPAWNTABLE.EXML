@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.58.0.3)-->
+<Data template="cGcExperienceSpawnTable">
+  <Property name="PulseEncounters">
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S12_STARTUP">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S13_STARTUP">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S14_STARTUP">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S16_STARTUP">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S17_STARTUP">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S10_LIFEBOAT">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S10_LIFEBOAT_S">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S10_ACTIVE1">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S10_ACTIVE2">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S10_ACTIVE3">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S10_ACTIVE4">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="SPACE_EGG">
+      <Property name="CustomNotify" value="UI_SPACE_EGG" />
+      <Property name="CustomNotifyTitle" value="UI_SPACE_EGG" />
+      <Property name="CustomNotifyOSD" value="UI_SPACE_EGG" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="BLACK_HOLE">
+      <Property name="CustomNotify" value="BLACK_HOLE" />
+      <Property name="CustomNotifyTitle" value="BLACK_HOLE" />
+      <Property name="CustomNotifyOSD" value="BLACK_HOLE" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="DERELICT_1">
+      <Property name="CustomNotify" value="UI_DERELICT1_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_DERELICT1_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_DERELICT1_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="DERELICT_2">
+      <Property name="CustomNotify" value="UI_DERELICT2_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_DERELICT2_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_DERELICT2_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="DERELICT_3">
+      <Property name="CustomNotify" value="UI_DERELICT3_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_DERELICT3_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_DERELICT3_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ATLAS_BEACON1">
+      <Property name="CustomNotify" value="UI_ATLAS_BEACON_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_ATLAS_BEACON_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_ATLAS_BEACON_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ATLAS_BEACON2">
+      <Property name="CustomNotify" value="UI_ATLAS_BEACON_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_ATLAS_BEACON_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_ATLAS_BEACON_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="RADIO_PILLAR">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ1_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ1_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ1_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="WEIRD_METAL">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ2_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ2_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ2_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="NEURON">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ3_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ3_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ3_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="RELIC_GATE">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ4_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ4_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ4_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="GAS_BRAIN">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ5_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ5_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ5_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="SPINNER">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ6_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ6_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ6_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="GYRO_BALL">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ7_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ7_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ7_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="GEK_HEAD">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ8_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ8_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ8_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="HORROR">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ9_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ9_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ9_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="JELLYFISH">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ10_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ10_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ10_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="JELLYFISH">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ17_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ17_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ17_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="CRYSTAL">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ12_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ12_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ12_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="CUBE_STATION">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ13_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ13_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ13_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ASTEROID_BEACON">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ14_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ14_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ14_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="LINE_GEO">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ16_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ16_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ16_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="SPACE_CLOCK">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ11_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ11_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ11_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="BONES">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ15_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ15_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ15_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="EYE">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ18_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ18_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ18_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="PRISON">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ19_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ19_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ19_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="SILOS">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ20_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ20_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ20_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="TRADER_HAIL">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_TRADER" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_TRADER" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_TRADER" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="RELIC_HAIL">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_TRADER" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_TRADER" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_TRADER" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="REPAIR_HAIL">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_REPAIR" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_REPAIR" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_REPAIR" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ALIEN_SHIP1">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ALIEN_SHIP2">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ALIEN_SHIP3">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ALIEN_SHIP4">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ALIEN_SHIP5">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="BIOSHIP3_POI">
+      <Property name="CustomNotify" value="UI_WEIRD_OBJ10_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_WEIRD_OBJ10_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_WEIRD_OBJ10_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="MOTHERSHIP">
+      <Property name="CustomNotify" value="UI_MOTHERSHIP" />
+      <Property name="CustomNotifyTitle" value="UI_MOTHERSHIP" />
+      <Property name="CustomNotifyOSD" value="UI_MOTHERSHIP" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ABAND_FREIGHTER">
+      <Property name="CustomNotify" value="UI_ABAND_FREIGHT_POI_LABEL" />
+      <Property name="CustomNotifyTitle" value="UI_ABAND_FREIGHT_POI_LABEL" />
+      <Property name="CustomNotifyOSD" value="UI_ABAND_FREIGHT_POI_LABEL" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ALIEN_SHIP_LOOP">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOSHIP" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="PIRATECLUE_HAIL">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="PIRATE_BETRAY">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="PIRATE_ATLAS">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="BIO_FRIG">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOFRIG" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOFRIG" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOFRIG" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="BIO_FRIG_FIRST">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_BIOFRIG" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_BIOFRIG" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_BIOFRIG" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ALIEN_PIRATES">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S8_POD_POI">
+      <Property name="CustomNotify" value="UI_EXPED_CIV_POD_LANG_TITLE" />
+      <Property name="CustomNotifyTitle" value="UI_EXPED_CIV_POD_LANG_TITLE" />
+      <Property name="CustomNotifyOSD" value="UI_EXPED_CIV_POD_LANG_TITLE" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S9_PIRATE">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="SENT_SHIP">
+      <Property name="CustomNotify" value="UI_PULSE_ENCOUNTER_NAME_SENT" />
+      <Property name="CustomNotifyTitle" value="UI_PULSE_ENCOUNTER_NAME_SENT" />
+      <Property name="CustomNotifyOSD" value="UI_PULSE_ENCOUNTER_NAME_SENT" />
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="ROBOM_BOAT">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="PURPM_BOAT">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S12_POI_SEED1">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S12_POI_SEED2">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S12_POI_SEED3">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S12_POI_SEED4">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S13_DREAM1">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S13_DREAM2">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S13_DREAM3">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+    <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S13_FLYBY">
+      <Property name="UseMarkerIconInOSD" value="true" />
+    </Property>
+  </Property>
+</Data>
