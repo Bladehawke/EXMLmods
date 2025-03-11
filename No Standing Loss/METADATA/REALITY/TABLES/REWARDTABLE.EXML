@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcRewardTable">
+	<Property name="GenericTable">
+		<Property name="GenericTable" value="GcGenericRewardTableEntry" _id="KILLED_CIV" _remove="" />
+	</Property>
+  <Property name="MissionBoardTable">
+    <Property name="MissionBoardTable" value="GcGenericRewardTableEntry" _id="MB_STAND_NEG" _remove="" />
+  </Property>
+	<Property name="InteractionTable">
+    <Property name="InteractionTable" value="GcGenericRewardTableEntry" _id="STD_DEC_BUI" _remove="" />
+		<Property name="InteractionTable" value="GcGenericRewardTableEntry" _id="STD_DEC_EXP" _remove="" />
+		<Property name="InteractionTable" value="GcGenericRewardTableEntry" _id="STD_DEC_TRA" _remove="" />
+		<Property name="InteractionTable" value="GcGenericRewardTableEntry" _id="STD_DEC_WAR" _remove="" />
+	</Property>
+</Data>
+	

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cTkAttachmentData">
+  <Property name="Components">
+    <Property name="Components" value="GcDestructableComponentData" _index="2">
+      <Property name="GcDestructableComponentData">
+        <Property name="StandingChangeOnDeath">
+          <Property name="Gek" value="0" />
+          <Property name="Korvax" value="0" />
+          <Property name="Vykeen" value="0" />
+          <Property name="TradeGuild" value="0" />
+          <Property name="WarriorGuild" value="0" />
+          <Property name="ExplorerGuild" value="0" />
+          <Property name="Nexus" value="0" />
+          <Property name="Pirates" value="1" />
+          <Property name="Builders" value="0" />
+          <Property name="None" value="0" />
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
