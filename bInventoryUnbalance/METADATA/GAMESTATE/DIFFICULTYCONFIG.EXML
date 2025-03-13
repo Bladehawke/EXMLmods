@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcDifficultyConfig">
+  	<Property name="InventoryStackLimitsOptionData">
+		<Property name="High" value="GcDifficultyInventoryStackSizeOptionData">
+			<Property name="SubstanceStackLimit" value="99999" />
+			<Property name="ProductStackLimit" value="99999" />
+			<Property name="MaxSubstanceStackSizes">
+				<Property name="Default" value="99999" />
+				<Property name="Personal" value="99999" />
+				<Property name="PersonalCargo" value="99999" />
+				<Property name="Ship" value="99999" />
+				<Property name="ShipCargo" value="99999" />
+				<Property name="Freighter" value="99999" />
+				<Property name="FreighterCargo" value="99999" />
+				<Property name="Vehicle" value="99999" />
+				<Property name="Chest" value="99999" />
+				<Property name="BaseCapsule" value="99999" />
+				<Property name="MaintenanceObject" value="99999" />
+				<Property name="UIPopup" value="99999" />
+				<Property name="SeasonTransfer" value="99999" />
+			</Property>
+			<Property name="MaxProductStackSizes">
+				<Property name="Default" value="2500" />
+				<Property name="Personal" value="2500" />
+				<Property name="PersonalCargo" value="2500" />
+				<Property name="Ship" value="2500" />
+				<Property name="ShipCargo" value="2500" />
+				<Property name="Freighter" value="2500" />
+				<Property name="FreighterCargo" value="2500" />
+				<Property name="Vehicle" value="2500" />
+				<Property name="Chest" value="2500" />
+				<Property name="BaseCapsule" value="2500" />
+				<Property name="MaintenanceObject" value="2500" />
+				<Property name="UIPopup" value="2500" />
+				<Property name="SeasonTransfer" value="2500" />
+			</Property>
+		</Property>
+		<Property name="Normal" value="GcDifficultyInventoryStackSizeOptionData">
+			<Property name="SubstanceStackLimit" value="99999" />
+			<Property name="ProductStackLimit" value="99999" />
+			<Property name="MaxSubstanceStackSizes">
+				<Property name="Default" value="5000" />
+				<Property name="Personal" value="5000" />
+				<Property name="PersonalCargo" value="5000" />
+				<Property name="Ship" value="10000" />
+				<Property name="ShipCargo" value="10000" />
+				<Property name="Freighter" value="20000" />
+				<Property name="FreighterCargo" value="20000" />
+				<Property name="Vehicle" value="10000" />
+				<Property name="Chest" value="10000" />
+				<Property name="BaseCapsule" value="20000" />
+				<Property name="MaintenanceObject" value="2500" />
+				<Property name="UIPopup" value="2500" />
+				<Property name="SeasonTransfer" value="99999" />
+			</Property>
+			<Property name="MaxProductStackSizes">
+				<Property name="Default" value="50" />
+				<Property name="Personal" value="100" />
+				<Property name="PersonalCargo" value="100" />
+				<Property name="Ship" value="100" />
+				<Property name="ShipCargo" value="100" />
+				<Property name="Freighter" value="100" />
+				<Property name="FreighterCargo" value="200" />
+				<Property name="Vehicle" value="100" />
+				<Property name="Chest" value="200" />
+				<Property name="BaseCapsule" value="1000" />
+				<Property name="MaintenanceObject" value="100" />
+				<Property name="UIPopup" value="10" />
+				<Property name="SeasonTransfer" value="200" />
+			</Property>
+		</Property>
+		<Property name="Low" value="GcDifficultyInventoryStackSizeOptionData">
+			<Property name="SubstanceStackLimit" value="99999" />
+			<Property name="ProductStackLimit" value="99999" />
+			<Property name="MaxSubstanceStackSizes">
+				<Property name="Default" value="1500" />
+				<Property name="Personal" value="3000" />
+				<Property name="PersonalCargo" value="3000" />
+				<Property name="Ship" value="3000" />
+				<Property name="ShipCargo" value="7500" />
+				<Property name="Freighter" value="7500" />
+				<Property name="FreighterCargo" value="7500" />
+				<Property name="Vehicle" value="3000" />
+				<Property name="Chest" value="10000" />
+				<Property name="BaseCapsule" value="12500" />
+				<Property name="MaintenanceObject" value="1500" />
+				<Property name="UIPopup" value="1500" />
+				<Property name="SeasonTransfer" value="99999" />
+			</Property>
+			<Property name="MaxProductStackSizes">
+				<Property name="Default" value="30" />
+				<Property name="Personal" value="30" />
+				<Property name="PersonalCargo" value="50" />
+				<Property name="Ship" value="30" />
+				<Property name="ShipCargo" value="50" />
+				<Property name="Freighter" value="50" />
+				<Property name="FreighterCargo" value="100" />
+				<Property name="Vehicle" value="30" />
+				<Property name="Chest" value="100" />
+				<Property name="BaseCapsule" value="500" />
+				<Property name="MaintenanceObject" value="50" />
+				<Property name="UIPopup" value="10" />
+				<Property name="SeasonTransfer" value="200" />
+			</Property>
+		</Property>
+	</Property>
+</Data>
