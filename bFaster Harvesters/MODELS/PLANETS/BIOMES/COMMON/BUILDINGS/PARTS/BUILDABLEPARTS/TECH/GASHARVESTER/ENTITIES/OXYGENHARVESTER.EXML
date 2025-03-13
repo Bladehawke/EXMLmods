@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cTkAttachmentData">
+  <Property name="Components">
+    <Property name="Components" value="GcGeneratorUnitComponentData" _index="3">
+      <Property name="GcGeneratorUnitComponentData">
+        <Property name="MaintenanceData" value="GcMaintenanceComponentData">
+          <Property name="PreInstalledTech">
+            <Property name="PreInstalledTech" value="GcMaintenanceElement" _id="MAINT_FUEL4">
+              <Property name="AmountEmptyTimePeriod" value="300.000000" />
+            </Property>
+            <Property name="PreInstalledTech" value="GcMaintenanceElement" _id="OXYGEN">
+              <Property name="MaxCapacity" value="1000" />
+              <Property name="AmountEmptyTimePeriod" value="-300.000000" />
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
