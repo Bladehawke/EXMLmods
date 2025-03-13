@@ -3,8 +3,8 @@
 <Data template="cGcTechnologyTable">
 	<Property name="Table">
 		<Property name="Table" value="GcTechnology" _id="T_UNW">
-			<Property name="ChargeAmount" value="3600" />
-			<Property name="ChargeMultiplier" value="45.000000" />
+			<Property name="ChargeAmount" value="3600" />           <!-- 3600 seconds is 1 hour -->
+			<Property name="ChargeMultiplier" value="45.000000" />  <!-- Increase resource consumption proportionately-->
 		</Property>
 		<Property name="Table" value="GcTechnology" _id="T_RAD">
 			<Property name="ChargeAmount" value="3600" />
