@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcBaseBuildingTable">
+	<Property name="Objects">
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_EXTRACTOR_S">
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+        <Property name="DependsOnHotspots" value="None" />   <!-- Default Mineral -->
+      </Property>
+    </Property>
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_GASEXTRACTOR">
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+        <Property name="DependsOnHotspots" value="None" />   <!-- Default Gas -->
+      </Property>
+    </Property>
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_GENERATOR_S">
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+				<Property name="DependsOnHotspots" value="None" />   <!-- Default Power -->
+      </Property>
+    </Property>
+  </Property>
+</Data>
