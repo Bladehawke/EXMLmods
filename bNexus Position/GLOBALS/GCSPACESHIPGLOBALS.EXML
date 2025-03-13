@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcSpaceshipGlobals">
+  <Property name="WarpNexusRotation" value="0.000000" />
+  <Property name="WarpNexusPitch" value="0.000000" />
+  <Property name="WarpNexusDistance" value="-5000.000000" />
+</Data>
