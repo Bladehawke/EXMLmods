@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcBaseBuildingTable">
+	<Property name="Objects">
+    <!-- The idea behind the reduced storage is to force the use of silos -->
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_EXTRACTOR_S">
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+        <Property name="Rate" value="200" />      <!-- Default 100 -->
+				<Property name="Storage" value="400" />   <!-- Default 360000 -->
+      </Property>
+    </Property>
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_GASEXTRACTOR">
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+        <Property name="Rate" value="200" />      <!-- Default 100 -->
+				<Property name="Storage" value="400" />   <!-- Default 360000 -->
+      </Property>
+    </Property>
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_SILO_S">
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+				<Property name="Storage" value="4000000" />   <!-- Default 1400000 -->
+      </Property>
+    </Property>
+  </Property>
+</Data>
