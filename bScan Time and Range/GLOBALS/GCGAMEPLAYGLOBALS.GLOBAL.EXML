@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (5.58.0.2)-->
 <Data template="cGcGameplayGlobals">
   <Property name="SurveyMaxDistance" value="1000.000000" />
   <Property name="TerrainResourceScanRange" value="2000.000000" />

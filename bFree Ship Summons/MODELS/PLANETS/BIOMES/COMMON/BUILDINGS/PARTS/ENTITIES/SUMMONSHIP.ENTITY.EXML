@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (5.58.0.2)-->
 <Data template="cTkAttachmentData">
   <Property name="Components">
     <Property name="Components" value="GcSimpleInteractionComponentData" _index="0">

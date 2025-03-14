@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (5.58.0.3)-->
 <Data template="cGcExperienceSpawnTable">
   <Property name="PulseEncounters">
     <Property name="PulseEncounters" value="GcPulseEncounterInfo" _id="S12_STARTUP">

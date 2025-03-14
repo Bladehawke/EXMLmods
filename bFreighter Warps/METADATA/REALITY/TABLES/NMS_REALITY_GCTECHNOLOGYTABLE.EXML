@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Data template="cGcTechnologyTable">
 	<Property name="Table">
-    <!--<Property name="Table" value="GcTechnology" _id="LAUNCHER">
-			<Property name="StatBonuses">
-				<Property name="StatBonuses" value="GcStatsBonus" _index="1">
-					<Property name="Bonus" value="41.000000" />
-				</Property>
-			</Property>
-		</Property>
-    -->
 		<Property name="Table" value="GcTechnology" _id="HYPERDRIVE">
 			<Property name="StatBonuses">
 				<Property name="StatBonuses" value="GcStatsBonus" _index="1">
@@ -75,14 +67,6 @@
 				</Property>
 			</Property>
 		</Property>
-		<!--<Property name="Table" value="GcTechnology" _id="LAUNCHER_ALIEN">
-			<Property name="StatBonuses">
-				<Property name="StatBonuses" value="GcStatsBonus" _index="1">
-					<Property name="Bonus" value="41.000000" />
-				</Property>
-			</Property>
-		</Property>
-    -->
 		<Property name="Table" value="GcTechnology" _id="WARP_ALIEN">
 			<Property name="StatBonuses">
 				<Property name="StatBonuses" value="GcStatsBonus" _index="1">

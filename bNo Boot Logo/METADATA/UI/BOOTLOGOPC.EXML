@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--File created using MBINCompiler version (5.58.0.3)-->
 <Data template="cGcBootLogoData">
 	<Property name="Textures">
 		<Property name="Textures" value="" _index="0" />
