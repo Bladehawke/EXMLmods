@@ -7,3 +7,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+# Binary files should not be checked in to source control
+*.MBIN
