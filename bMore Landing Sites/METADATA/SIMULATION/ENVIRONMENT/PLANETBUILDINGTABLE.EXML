@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Convert the waypoints at abandoned buildings, Terminals, Depots and Hives into Landing zone Waypoints-->
+<Data template="cGcBuildingDefinitionTable">
+	<Property name="BuildingPlacement">
+		<Property name="Abandoned" value="GcBuildingDefinitionData">
+			<Property name="ClusterLayout" value="LAND_WAYPOINT" />
+		</Property>
+		<Property name="Terminal" value="GcBuildingDefinitionData">
+			<Property name="ClusterLayout" value="LAND_WAYPOINT" />
+		</Property>
+		<Property name="Depot" value="GcBuildingDefinitionData">
+			<Property name="ClusterLayout" value="LAND_WAYPOINT" />
+		</Property>
+		<Property name="DroneHive" value="GcBuildingDefinitionData">
+			<Property name="ClusterLayout" value="LAND_WAYPOINT" />
+		</Property>
+	</Property>
+</Data>
