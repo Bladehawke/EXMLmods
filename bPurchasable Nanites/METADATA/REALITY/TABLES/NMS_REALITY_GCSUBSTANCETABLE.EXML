@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcSubstanceTable">
+	<Property name="Table">
+		<Property name="Table" value="GcRealitySubstanceData" _id="TECHFRAG">
+			<Property name="BaseValue" value="10000" />
+		</Property>
+	</Property>
+</Data>

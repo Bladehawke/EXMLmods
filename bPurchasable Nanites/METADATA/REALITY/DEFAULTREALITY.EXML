@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcRealityManagerData">
+  <Property name="TradeSettings" value="GcTradeSettings">
+    <Property name="SpaceStation" value="GcTradeData">
+      <Property name="AlwaysPresentSubstances">
+        <Property name="AlwaysPresentSubstances" value="TECHFRAG" _index="5" />
+      </Property>
+    </Property>
+    <Property name="Shop" value="GcTradeData">
+      <Property name="AlwaysPresentSubstances">
+        <Property name="AlwaysPresentSubstances" value="TECHFRAG" _index="5" />
+      </Property>
+    </Property>
+  </Property>
+  <Property name="NeverSellableItems" _overwrite="">
+    <Property name="NeverSellableItems" value="HYPERFUEL1" />
+    <Property name="NeverSellableItems" value="ACCESS1" />
+    <Property name="NeverSellableItems" value="ACCESS2" />
+    <Property name="NeverSellableItems" value="ACCESS3" />
+    <Property name="NeverSellableItems" value="SPEC_FIREWORK01" />
+    <Property name="NeverSellableItems" value="SPEC_FIREWORK02" />
+    <Property name="NeverSellableItems" value="SPEC_FIREWORK03" />
+    <Property name="NeverSellableItems" value="SPEC_FIREWORK04" />
+    <Property name="NeverSellableItems" value="SPEC_FIREWORK05" />
+    <Property name="NeverSellableItems" value="SPEC_FIREWORK06" />
+    <Property name="NeverSellableItems" value="EGG1" />
+    <Property name="NeverSellableItems" value="EGG2" />
+    <Property name="NeverSellableItems" value="EGG3" />
+    <Property name="NeverSellableItems" value="EGG4" />
+    <Property name="NeverSellableItems" value="EGG5" />
+    <Property name="NeverSellableItems" value="EGG6" />
+    <Property name="NeverSellableItems" value="DRONE_BROKEN" />
+    <Property name="NeverSellableItems" value="DRONE_PART_E2" />
+    <Property name="NeverSellableItems" value="DRONE_PART_E3" />
+    <Property name="NeverSellableItems" value="DRONE_PART_P" />
+    <Property name="NeverSellableItems" value="DRONE_FRIEND" />
+    <Property name="NeverSellableItems" value="DRONE_FRIEND_X" />
+    <Property name="NeverSellableItems" value="WALKER_PROD_2" />
+    <Property name="NeverSellableItems" value="WALKER_PROD_3" />
+    <Property name="NeverSellableItems" value="WALKER_PROD_4" />
+    <Property name="NeverSellableItems" value="PIRATE_MAPPROD0" />
+    <Property name="NeverSellableItems" value="PIRATE_MAPPROD1" />
+    <Property name="NeverSellableItems" value="PIRATE_MAPPROD2" />
+    <Property name="NeverSellableItems" value="PIRATE_MAPWHOLE" />
+  </Property>
+</Data>
