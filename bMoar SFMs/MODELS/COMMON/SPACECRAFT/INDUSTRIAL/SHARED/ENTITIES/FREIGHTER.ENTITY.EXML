@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cTkAttachmentData">
+	<Property name="AdditionalData" />
+	<Property name="Components">
+		<Property name="Components" value="GcDestructableComponentData" _index="3">
+			<Property name="GcDestructableComponentData">
+				<Property name="PirateSystemAltReward" value="" />
+			</Property>
+		</Property>
+	</Property>
+</Data>
