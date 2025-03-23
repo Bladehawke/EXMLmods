@@ -7,108 +7,42 @@
           <Property name="List" value="GcRewardTableItem" _index="11">
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
-                <Property name="ID" value="FRIG_TOKEN" />
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="2" />
                 <Property name="AmountMax" value="5" />
-              </Property>
-            </Property>
-          </Property>
-      </Property></Property></Property>
-    <Property name="GenericTable" value="GcGenericRewardTableEntry" _id="FREIGHTER_SAVED">
-      <Property name="Id" value="FREIGHTER_SAVED" />
-      <Property name="List" value="GcRewardTableItemList">
-        <Property name="List">
-          <Property name="List" value="GcRewardTableItem" _index="0">
-            <Property name="PercentageChance" value="100.000000" />
-            <Property name="LabelID" value="" />
-            <Property name="Reward" value="GcRewardSpecificProduct">
-              <Property name="GcRewardSpecificProduct">
-                <Property name="Default" value="GcDefaultMissionProductEnum">
-                  <Property name="DefaultProductType" value="None" />
-                </Property>
-                <Property name="ID" value="FRIG_TOKEN" />
-                <Property name="AmountMin" value="2" />
-                <Property name="AmountMax" value="5" />
-                <Property name="HideAmountInMessage" value="false" />
-                <Property name="ForceSpecialMessage" value="false" />
-                <Property name="HideInSeasonRewards" value="false" />
-                <Property name="Silent" value="false" />
-                <Property name="SeasonRewardListFormat" value="" />
-                <Property name="RequiresTech" value="" />
-              </Property>
-            </Property>
-          </Property>
-          <Property name="List" value="GcRewardTableItem" _index="1">
-            <Property name="PercentageChance" value="100.000000" />
-            <Property name="LabelID" value="" />
-            <Property name="Reward" value="GcRewardSpecificProduct">
-              <Property name="GcRewardSpecificProduct">
-                <Property name="Default" value="GcDefaultMissionProductEnum">
-                  <Property name="DefaultProductType" value="None" />
-                </Property>
-                <Property name="ID" value="FREI_INV_TOKEN" />
-                <Property name="AmountMin" value="1" />
-                <Property name="AmountMax" value="1" />
-                <Property name="HideAmountInMessage" value="false" />
-                <Property name="ForceSpecialMessage" value="false" />
-                <Property name="HideInSeasonRewards" value="false" />
-                <Property name="Silent" value="false" />
-                <Property name="SeasonRewardListFormat" value="" />
-                <Property name="RequiresTech" value="" />
-              </Property>
-            </Property>
-          </Property>
-          <Property name="List" value="GcRewardTableItem" _index="2">
-            <Property name="PercentageChance" value="100.000000" />
-            <Property name="LabelID" value="" />
-            <Property name="Reward" value="GcRewardStanding">
-              <Property name="GcRewardStanding">
-                <Property name="Race" value="GcAlienRace">
-                  <Property name="AlienRace" value="None" />
-                </Property>
-                <Property name="AmountMin" value="2" />
-                <Property name="AmountMax" value="3" />
-                <Property name="UseExpeditionEventSystemRace" value="false" />
-              </Property>
-            </Property>
-          </Property>
-          <Property name="List" value="GcRewardTableItem" _index="3">
-            <Property name="PercentageChance" value="100.000000" />
-            <Property name="LabelID" value="" />
-            <Property name="Reward" value="GcRewardMoney">
-              <Property name="GcRewardMoney">
-                <Property name="AmountMin" value="200" />
-                <Property name="AmountMax" value="300" />
-                <Property name="RoundNumber" value="false" />
-                <Property name="Currency" value="GcCurrency">
-                  <Property name="Currency" value="Nanites" />
-                </Property>
-              </Property>
-            </Property>
-          </Property>
-          <Property name="List" value="GcRewardTableItem" _index="4">
-            <Property name="PercentageChance" value="100.000000" />
-            <Property name="LabelID" value="" />
-            <Property name="Reward" value="GcRewardSpecificSubstance">
-              <Property name="GcRewardSpecificSubstance">
-                <Property name="Default" value="GcDefaultMissionSubstanceEnum">
-                  <Property name="DefaultSubstanceType" value="None" />
-                </Property>
-                <Property name="ID" value="ASTEROID2" />
-                <Property name="AmountMin" value="300" />
-                <Property name="AmountMax" value="500" />
-                <Property name="DisableMultiplier" value="false" />
-                <Property name="RewardAsBlobs" value="false" />
-                <Property name="UseFuelMultiplier" value="false" />
-                <Property name="Silent" value="false" />
-                <Property name="UseMissionBoardDifficultyScale" value="false" />
               </Property>
             </Property>
           </Property>
         </Property>
       </Property>
     </Property>
-    <Property name="GenericTable" value="GcGenericRewardTableEntry" _id="PIRATELOOT">
+    <Property name="GenericTable" value="GcGenericRewardTableEntry" _id="FREIGHTER_SAVED">
+      <Property name="List" value="GcRewardTableItemList">
+        <Property name="List">
+          <Property name="List" value="GcRewardTableItem">
+            <Property name="PercentageChance" value="100.000000" />
+            <Property name="LabelID" value="" />
+            <Property name="Reward" value="GcRewardSpecificProduct">
+              <Property name="GcRewardSpecificProduct">
+                <Property name="Default" value="GcDefaultMissionProductEnum">
+                  <Property name="DefaultProductType" value="None" />
+                </Property>
+                <Property name="ID" value="FRIG_TOKEN" />
+                <Property name="AmountMin" value="2" />
+                <Property name="AmountMax" value="5" />
+                <Property name="HideAmountInMessage" value="false" />
+                <Property name="ForceSpecialMessage" value="false" />
+                <Property name="HideInSeasonRewards" value="false" />
+                <Property name="Silent" value="false" />
+                <Property name="SeasonRewardListFormat" value="" />
+                <Property name="RequiresTech" value="" />
+              </Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+    <Property name="GenericTable" value="GcGenericRewardTableEntry" _id="PIRATELOOT" _overwrite="">
       <Property name="Id" value="PIRATELOOT" />
       <Property name="List" value="GcRewardTableItemList">
         <Property name="RewardChoice" value="GiveFirst_ThenAlsoSelectAlwaysFromRest" />
@@ -313,6 +247,22 @@
         </Property>
       </Property>
     </Property>
+    <Property name="GenericTable" value="GcGenericRewardTableEntry" _id="SMUGGLELOOT">
+      <Property name="List" value="GcRewardTableItemList">
+        <Property name="List">
+          <Property name="List" value="GcRewardTableItem" _index="1">
+            <Property name="PercentageChance" value="40.000000" />
+            <Property name="Reward" value="GcRewardSpecificProduct">
+              <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
+                <Property name="AmountMin" value="2" />
+                <Property name="AmountMax" value="5" />
+              </Property>
+            </Property>
+          </Property>
+        </Property>
+      </Property>
+    </Property>
     <Property name="GenericTable" value="GcGenericRewardTableEntry" _id="FREIGHTERLOOT">
       <Property name="List" value="GcRewardTableItemList">
         <Property name="List">
@@ -320,6 +270,7 @@
             <Property name="PercentageChance" value="40.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="2" />
                 <Property name="AmountMax" value="5" />
               </Property>
@@ -330,12 +281,16 @@
     </Property>
   </Property>
   <Property name="SpecialRewardTable">
-    <Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_PIR_FREI">
+    <Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="R_PIR_FREI" _overwrite="">
+      <Property name="Id" value="R_PIR_FREI" />
       <Property name="List" value="GcRewardTableItemList">
         <Property name="RewardChoice" value="GiveFirst_ThenAlsoSelectAlwaysFromRest" />
+        <Property name="OverrideZeroSeed" value="false" />
+        <Property name="UseInventoryChoiceOverride" value="false" />
+        <Property name="IncrementStat" value="" />
         <Property name="List">
           <Property name="List" value="GcRewardTableItem" _index="0">
-            <Property name="PercentageChance" value="100.000000" />
+            <Property name="PercentageChance" value="200.000000" />
             <Property name="LabelID" value="" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
@@ -530,6 +485,7 @@
             <Property name="PercentageChance" value="20.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="3" />
                 <Property name="AmountMax" value="8" />
               </Property>
@@ -541,10 +497,11 @@
     <Property name="SpecialRewardTable" value="GcGenericRewardTableEntry" _id="CRASHCONT_S">
       <Property name="List" value="GcRewardTableItemList">
         <Property name="List">
-          <Property name="List" value="GcRewardTableItem" _index="1">
-            <Property name="PercentageChance" value="16.000000" />
+          <Property name="List" value="GcRewardTableItem" _index="0">
+            <Property name="PercentageChance" value="10.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="3" />
                 <Property name="AmountMax" value="8" />
               </Property>
@@ -562,6 +519,7 @@
             <Property name="PercentageChance" value="4.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="4" />
                 <Property name="AmountMax" value="10" />
               </Property>
@@ -577,6 +535,7 @@
             <Property name="PercentageChance" value="6.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="4" />
                 <Property name="AmountMax" value="10" />
               </Property>
@@ -592,6 +551,7 @@
             <Property name="PercentageChance" value="10.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="4" />
                 <Property name="AmountMax" value="10" />
               </Property>
@@ -607,6 +567,7 @@
             <Property name="PercentageChance" value="12.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="4" />
                 <Property name="AmountMax" value="10" />
               </Property>
@@ -616,13 +577,13 @@
       </Property>
     </Property>
     <Property name="MissionBoardTable" value="GcGenericRewardTableEntry" _id="R_NEXUS_MED">
-      <Property name="Id" value="R_NEXUS_MED" />
       <Property name="List" value="GcRewardTableItemList">
         <Property name="List">
           <Property name="List" value="GcRewardTableItem" _index="8">
             <Property name="PercentageChance" value="10.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="4" />
                 <Property name="AmountMax" value="10" />
               </Property>
@@ -638,6 +599,7 @@
             <Property name="PercentageChance" value="100.000000" />
             <Property name="Reward" value="GcRewardSpecificProduct">
               <Property name="GcRewardSpecificProduct">
+                <!-- <Property name="ID" value="FRIG_TOKEN" /> -->
                 <Property name="AmountMin" value="4" />
                 <Property name="AmountMax" value="10" />
               </Property>
