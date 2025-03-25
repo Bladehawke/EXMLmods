@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcBuildingGlobals">
+  <Property name="UnknownBuildingRange" value="10000.000000" />
+  <Property name="MaxIconRange" value="10000.000000" />
+  <Property name="MinShipScanBuildings" value="1" />
+  <Property name="MaxShipScanBuildings" value="5" />
+</Data>

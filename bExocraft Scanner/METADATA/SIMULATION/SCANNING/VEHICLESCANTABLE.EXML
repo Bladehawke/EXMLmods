@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcVehicleScanTable">
+	<Property name="VehicleScanTable">
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="DISTRESS" _index="0" />
+			</Property>
+			<Property name="Name" value="BUILDING_DISTRESSSIGNAL_L" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN2" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/QUICKMENU/BUILDINGS.STARSHIPS.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="CRASHED_FREIGHTER" _index="0" />
+			</Property>
+			<Property name="Name" value="UI_CORE_ACT2_STEP8_MARKER" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/FRONTEND/ICONS/QUICKMENU/BUILDINGS.CRASHEDFREIGHTER.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="DISTRESS_NPC" _index="0" />
+			</Property>
+			<Property name="Name" value="UI_PULSE_ENCOUNTER_NAME_REPAIR" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN1" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.REPAIR.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="FACTORY" _index="0" />
+			</Property>
+			<Property name="Name" value="BUILDING_FACTORY_L" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN2" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.COLLECT.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="HARVESTER" _index="0" />
+			</Property>
+			<Property name="Name" value="BUILDING_HARVESTER_L" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN1" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.WHEAT.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="OBSERVATORY" _index="0" />
+			</Property>
+			<Property name="Name" value="BUILDING_OBSERVATORY_L" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN1" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.PLANET.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="RADIOTOWER" _index="0" />
+			</Property>
+			<Property name="Name" value="BUILDING_RADIOTOWER_L" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN1" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.SCAN.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="SHOP" _index="0" />
+			</Property>
+			<Property name="Name" value="BUILDING_SHOP_L" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.DEPOTRAID.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="VS_BASE" _index="0" />
+			</Property>
+			<Property name="Name" value="UI_BASE_ANYWHERE_OPT_A" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/BASECOMPUTERMISSION.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="VS_DRHV" _index="0" />
+			</Property>
+			<Property name="Name" value="UI_SENTINEL_HIVE_NAME" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN2" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/BUILDINGS/BUILDING.DRONEHIVE.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="VS_GRV" _index="0" />
+			</Property>
+			<Property name="Name" value="SCAN_GRAVE" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN1" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/SCANNING/PICKUP.GRAVE.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="VS_SETL" _index="0" />
+			</Property>
+			<Property name="Name" value="UI_SETTLEMENT_LABEL" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN2" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.SETTLEMENT.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="VS_PORT" _index="0" />
+			</Property>
+			<Property name="Name" value="UI_PORTAL_OPT" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN1" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.PORTAL.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="VS_GLCH" _index="0" />
+			</Property>
+			<Property name="Name" value="BUILDING_GLITCHYSTORYBOX" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN1" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/SCANNING/PICKUP.GLITCH.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="VehicleScanTable" value="GcVehicleScanTableEntry">
+			<Property name="ScanList">
+				<Property name="ScanList" value="VS_DRCS" _index="0" />
+			</Property>
+			<Property name="Name" value="UI_CRASH_REVEAL_MARKER" />
+			<Property name="RequiredTech" value="VEHICLE_SCAN2" />
+			<Property name="Icon" value="TkTextureResource">
+				<Property name="Filename" value="TEXTURES/UI/HUD/ICONS/MISSIONS/MISSION.SENTINELCRASH.DDS" />
+				<Property name="ResHandle" value="GcResource">
+					<Property name="ResourceID" value="0" />
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+</Data>

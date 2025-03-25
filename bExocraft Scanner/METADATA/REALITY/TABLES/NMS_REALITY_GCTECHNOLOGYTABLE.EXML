@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcTechnologyTable">
+	<Property name="Table">
+		<Property name="Table" value="GcTechnology" _id="VEHICLE_SCAN1">
+			<Property name="Category" value="GcTechnologyCategory">
+				<Property name="TechnologyCategory" value="AllVehicles"/>
+			</Property>
+		</Property>
+		<Property name="Table" value="GcTechnology" _id="VEHICLE_SCAN2">
+			<Property name="Category" value="GcTechnologyCategory">
+				<Property name="TechnologyCategory" value="AllVehicles"/>
+			</Property>
+		</Property>
+	</Property>
+</Data>
