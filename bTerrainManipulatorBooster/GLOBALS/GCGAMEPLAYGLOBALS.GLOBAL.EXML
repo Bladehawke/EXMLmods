@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcGameplayGlobals">
+  <Property name="SpecialMiningAmount" value="100" />
+  <Property name="ResourceMinAmount" value="50" />
+  <Property name="ResourceMaxAmount" value="100" />
+  <Property name="ResourceCommonMinAmount" value="50" />
+  <Property name="ResourceCommonMaxAmount" value="100" />
+  <Property name="ResourceDirtMinAmount" value="50" />
+  <Property name="ResourceDirtMaxAmount" value="100" />
+</Data>
