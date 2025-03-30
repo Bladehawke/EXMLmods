@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcBaseBuildingTable">
+  <Property name="Objects">
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_SOLAR_S">
+      <Property name="Rate" value="200" />
+    </Property>
+    <Property name="Objects" value="GcBaseBuildingEntry" _id="U_BIOGENERATOR">
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+        <Property name="DependentConnections">
+          <Property name="DependentConnections" value="GcBaseLinkGridConnectionDependency" _index="0">
+            <Property name="Connection" value="GcBaseLinkGridConnectionData">
+              <Property name="DependentRate" value="500" />
+            </Property>
+          </Property>
+          <Property name="Storage" value="100" />
+        </Property>
+      </Property>
+      <Property name="Objects" value="GcBaseBuildingEntry" _id="U_GENERATOR_S">
+        <Property name="LinkGridData" value="GcBaseLinkGridData">
+          <Property name="Rate" value="500" />
+          <Property name="Storage" value="2000" />
+        </Property>
+      </Property>
+      <Property name="Objects" value="GcBaseBuildingEntry" _id="U_BATTERY_S">
+        <Property name="LinkGridData" value="GcBaseLinkGridData">
+          <Property name="Storage" value="200000" />
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>
