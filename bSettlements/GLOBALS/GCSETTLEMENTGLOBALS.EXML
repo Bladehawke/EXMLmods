@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcSettlementGlobals">
+  <!-- Multiply all times by 0.1 -->
+  <Property name="BuildingUpgradeTimeInSeconds" value="720" />
+  <Property name="BuildingFreeUpgradeTimeInSeconds" value="1" />
+  <Property name="JudgementWaitTimeMin" value="90" />
+  <Property name="JudgementWaitTimeMax" value="720" />
+  <Property name="SettlementBuildingTimes">
+    <Property name="Settlement_LandingZone" value="360" />
+    <Property name="Settlement_Bar" value="360" />
+    <Property name="Settlement_Tower" value="360" />
+    <Property name="Settlement_Market" value="720" />
+    <Property name="Settlement_Small" value="120" />
+    <Property name="Settlement_SmallIndustrial" value="120" />
+    <Property name="Settlement_Medium" value="280" />
+    <Property name="Settlement_Large" value="720" />
+    <Property name="Settlement_SheriffsOffice" value="9" />
+    <Property name="Settlement_Double" value="360" />
+    <Property name="Settlement_Farm" value="560" />
+    <Property name="Settlement_Factory" value="560" />
+  </Property>
+  <!-- Make the production from the settlements a little less junky -->
+  <Property name="GekProductionElements" _overwrite="">
+    <Property name="GekProductionElements" value="TRA_CURIO2" _index="0" />
+    <Property name="GekProductionElements" value="FOOD_V_GEK" _index="1" />
+    <Property name="GekProductionElements" value="NIPNIPBUDS" _index="2" />
+    <Property name="GekProductionElements" value="TRA_EXOTICS3" _index="3" />
+    <Property name="GekProductionElements" value="ULTRAPROD2" _index="4" />
+  </Property>
+  <Property name="KorvaxProductionElements" _overwrite="">
+    <Property name="KorvaxProductionElements" value="HYPERFUEL2" _index="0" />
+    <Property name="KorvaxProductionElements" value="U_HYPERX" _index="1" />
+    <Property name="KorvaxProductionElements" value="U_HAZARDX" _index="2" />
+    <Property name="KorvaxProductionElements" value="U_ENERGYX" _index="3" />
+    <Property name="KorvaxProductionElements" value="SALVAGE_TECH10" _index="4" />
+  </Property>
+  <Property name="VykeenProductionElements" _overwrite="">
+    <Property name="VykeenProductionElements" value="WAR_CURIO2" _index="0" />
+    <Property name="VykeenProductionElements" value="U_SHOTGUNX" _index="1" />
+    <Property name="VykeenProductionElements" value="SCRAP_WEAP" _index="2" />
+    <Property name="VykeenProductionElements" value="U_BOLTX" _index="3" />
+    <Property name="VykeenProductionElements" value="ULTRAPROD1" _index="4" />
+  </Property>
+</Data>
