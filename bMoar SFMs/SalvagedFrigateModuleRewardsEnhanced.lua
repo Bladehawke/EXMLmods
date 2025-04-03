@@ -32,7 +32,7 @@ MODELS/COMMON/SPACECRAFT/INDUSTRIAL/SHARED/ENTITIES/CAPITALFREIGHTER.ENTITY.MBIN
 
 local author = "Umaroth"
 local luaAuthor = [[
-	Umaroth
+	Umaroth and Bladehawke
 	based on original mods:
 		-Better Salvaged Frigate Module Rewards by Hazelberry
 		-gFreighter Legal Salvaged Frigate Modules by Gumsk
