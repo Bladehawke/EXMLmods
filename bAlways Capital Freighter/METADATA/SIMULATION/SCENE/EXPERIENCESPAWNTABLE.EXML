@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcExperienceSpawnTable">
+  <Property name="AmbientSpawns">
+    <Property name="AmbientSpawns" value="GcAIShipSpawnData" _index="0">
+      <Property name="WarpIn" value="true" />
+      <Property name="Role" value="GcAISpaceshipRoles">
+        <Property name="AIShipRole" value="CapitalFreighter" />
+      </Property>
+    </Property>
+  </Property>
+</Data>
