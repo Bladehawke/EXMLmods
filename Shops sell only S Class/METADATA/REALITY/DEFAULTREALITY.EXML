@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcRealityManagerData">
+  <Property name="TradeSettings" value="GcTradeSettings">
+    <Property name="ShipTechSpecialist" value="GcTradeData">
+      <Property name="AlwaysPresentProducts" _overwrite="">
+        <Property name="AlwaysPresentProducts" value="SHIP_CORE_C" _index="0" />
+        <Property name="AlwaysPresentProducts" value="SHIP_CORE_B" _index="1" />
+        <Property name="AlwaysPresentProducts" value="SHIP_CORE_A" _index="2" />
+        <Property name="AlwaysPresentProducts" value="SHIP_CORE_S" _index="3" />
+        <Property name="AlwaysPresentProducts" value="U_LAUNCH4" _index="4" />
+        <Property name="AlwaysPresentProducts" value="U_PULSE4" _index="5" />
+        <Property name="AlwaysPresentProducts" value="U_HYPER4" _index="6" />
+        <Property name="AlwaysPresentProducts" value="U_SHIPSHIELD4" _index="7" />
+      </Property>
+      <Property name="OptionalProducts" _overwrite="">
+        <Property name="OptionalProducts" value="U_SHIPGUN4" _index="0" />
+        <Property name="OptionalProducts" value="U_SHIPLAS4" _index="1" />
+        <Property name="OptionalProducts" value="U_SHIPSHOT4" _index="2" />
+        <Property name="OptionalProducts" value="U_SHIPMINI4" _index="3" />
+        <Property name="OptionalProducts" value="U_SHIPBLOB4" _index="4" />
+      </Property>
+    </Property>
+    <Property name="SuitTechSpecialist" value="GcTradeData">
+      <Property name="AlwaysPresentProducts" _overwrite="">
+        <Property name="AlwaysPresentProducts" value="U_ENERGY3" _index="0" />
+        <Property name="AlwaysPresentProducts" value="U_JETBOOST4" _index="1" />
+        <Property name="AlwaysPresentProducts" value="U_SHIELDBOOST4" _index="2" />
+      </Property>
+      <Property name="OptionalProducts" _overwrite="">
+        <Property name="OptionalProducts" value="U_UNW3" _index="0" />
+        <Property name="OptionalProducts" value="U_RAD3" _index="1" />
+        <Property name="OptionalProducts" value="U_TOX3" _index="2" />
+        <Property name="OptionalProducts" value="U_COLDPROT3" _index="3" />
+        <Property name="OptionalProducts" value="U_HOTPROT3" _index="4" />
+      </Property>
+    </Property>
+    <Property name="WeapTechSpecialist" value="GcTradeData">
+      <Property name="AlwaysPresentProducts" _overwrite="">
+        <Property name="AlwaysPresentProducts" value="U_LASER4" _index="0" />
+        <Property name="AlwaysPresentProducts" value="U_SCANNER4" _index="1" />
+        <Property name="AlwaysPresentProducts" value="U_BOLT4" _index="2" />
+      </Property>
+      <Property name="OptionalProducts" _overwrite="">
+        <Property name="OptionalProducts" value="U_TGRENADE4" _index="0" />
+        <Property name="OptionalProducts" value="U_GRENADE4" _index="1" />
+        <Property name="OptionalProducts" value="U_CANNON4" _index="2" />
+        <Property name="OptionalProducts" value="U_SMG4" _index="3" />
+        <Property name="OptionalProducts" value="U_SHOTGUN4" _index="4" />
+        <Property name="OptionalProducts" value="U_RAIL4" _index="5" />
+      </Property>
+    </Property>
+    <Property name="VehicleTechSpecialist" value="GcTradeData">
+      <Property name="OptionalProducts" _overwrite="">
+        <Property name="OptionalProducts" value="U_EXOGUN4" _index="0" />
+        <Property name="OptionalProducts" value="U_EXO_ENG4" _index="1" />
+        <Property name="OptionalProducts" value="U_EXOLAS4" _index="2" />
+        <Property name="OptionalProducts" value="U_EXOBOOST4" _index="3" />
+        <Property name="OptionalProducts" value="U_EXO_SUB4" _index="4" />
+        <Property name="OptionalProducts" value="U_EXO_SUBGUN4" _index="5" />
+        <Property name="OptionalProducts" value="U_MECH_ENG4" _index="6" />
+        <Property name="OptionalProducts" value="U_MECHLAS4" _index="7" />
+        <Property name="OptionalProducts" value="U_MECHGUN4" _index="8" />
+        <Property name="OptionalProducts" value="U_MECHFLAME4" _index="9" />
+      </Property>
+    </Property>
+    <Property name="NexusTechSpecialist" value="GcTradeData">
+      <Property name="AlwaysPresentProducts" _overwrite="">
+        <Property name="AlwaysPresentProducts" value="U_LAUNCH4" _index="0" />
+        <Property name="AlwaysPresentProducts" value="U_PULSE4" _index="1" />
+        <Property name="AlwaysPresentProducts" value="U_HYPER4" _index="2" />
+        <Property name="AlwaysPresentProducts" value="U_LASER4" _index="3" />
+        <Property name="AlwaysPresentProducts" value="U_SCANNER4" _index="4" />
+        <Property name="AlwaysPresentProducts" value="U_ENERGY3" _index="5" />
+        <Property name="AlwaysPresentProducts" value="U_JETBOOST4" _index="6" />
+        <Property name="AlwaysPresentProducts" value="U_SHIELDBOOST4" _index="7" />
+        <Property name="AlwaysPresentProducts" value="U_RAD3" _index="8" />
+        <Property name="AlwaysPresentProducts" value="U_TOX3" _index="9" />
+        <Property name="AlwaysPresentProducts" value="U_COLDPROT3" _index="10" />
+        <Property name="AlwaysPresentProducts" value="U_HOTPROT3" _index="11" />
+        <Property name="AlwaysPresentProducts" value="U_SHIPSHIELD4" _index="12" />
+        <Property name="AlwaysPresentProducts" value="U_BOLT4" _index="13" />
+        <Property name="AlwaysPresentProducts" value="U_SHIPGUN4" _index="14" />
+        <Property name="AlwaysPresentProducts" value="U_EXOBOOST4" _index="15" />
+        <Property name="AlwaysPresentProducts" value="U_UNW3" _index="16" />
+        <Property name="AlwaysPresentProducts" value="U_EXO_ENG4" _index="17" />
+        <Property name="AlwaysPresentProducts" value="U_RAIL4" _index="18" />
+        <Property name="AlwaysPresentProducts" value="U_SHOTGUN4" _index="19" />
+        <Property name="AlwaysPresentProducts" value="U_EXOGUN4" _index="20" />
+        <Property name="AlwaysPresentProducts" value="U_SHIPLAS4" _index="21" />
+        <Property name="AlwaysPresentProducts" value="U_TGRENADE4" _index="22" />
+        <Property name="AlwaysPresentProducts" value="U_GRENADE4" _index="23" />
+        <Property name="AlwaysPresentProducts" value="U_SHIPSHOT4" _index="24" />
+        <Property name="AlwaysPresentProducts" value="U_SHIPMINI4" _index="25" />
+        <Property name="AlwaysPresentProducts" value="U_SHIPBLOB4" _index="26" />
+        <Property name="AlwaysPresentProducts" value="U_SMG4" _index="27" />
+        <Property name="AlwaysPresentProducts" value="U_CANNON4" _index="28" />
+        <Property name="AlwaysPresentProducts" value="U_EXO_SUB4" _index="29" />
+        <Property name="AlwaysPresentProducts" value="U_MECH_ENG4" _index="30" />
+        <Property name="AlwaysPresentProducts" value="U_EXO_SUBGUN4" _index="31" />
+        <Property name="AlwaysPresentProducts" value="U_MECHGUN4" _index="32" />
+        <Property name="AlwaysPresentProducts" value="U_MECHLAS4" _index="33" />
+        <Property name="AlwaysPresentProducts" value="U_MECHFLAME4" _index="34" />
+      </Property>
+    </Property>
+  </Property>
+</Data>
