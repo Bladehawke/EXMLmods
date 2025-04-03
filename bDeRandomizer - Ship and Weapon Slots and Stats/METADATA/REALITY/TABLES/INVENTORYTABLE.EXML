@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (5.61.0.1)-->
+<Data template="cGcInventoryTable">
+	<Property name="Table">
+		<Property name="Table" value="GcInventoryTableEntry" _id="ROBOT_SMALL">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ROBOT_MEDIUM">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ROBOT_LARGE">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SAIL_MEDIUM">
+			<Property name="MinSize" value="2" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SAIL_LARGE">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ALIEN_SMALL">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ALIEN_MEDIUM">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ALIEN_LARGE">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ROYAL_SMALL">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ROYAL_MEDIUM">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="ROYAL_LARGE">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SHUTTLE_BASE">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SHUTTLE_SMALL">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SHUTTLE_MEDIUM">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SHUTTLE_LARGE">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SHUTTLE_XLARGE">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SCI_LARGE">
+			<Property name="MinSize" value="2" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SCI_MEDIUM">
+			<Property name="MinSize" value="2" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="SCI_BASE">
+			<Property name="MinSize" value="19" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="FIGHTER_LARGE">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="FIGHTER_MEDIUM">
+			<Property name="MinSize" value="2" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="FIGHTER_BASE">
+			<Property name="MinSize" value="20" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="DROPSHIP_LARGE">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="DROPSHIP_MEDIUM">
+			<Property name="MinSize" value="2" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="DROPSHIP_BASEA">
+			<Property name="MinSize" value="21" />
+			<Property name="MaxSize" value="21" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_SMALL">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_MEDIUM">
+			<Property name="MinSize" value="4" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_DEFAULT">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_PRISTINE">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_ALIEN">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_ROYAL">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_ROBOT">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_ATLAS">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_ATLAS_Y">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_ATLAS_B">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="WEAPON_STAFF">
+			<Property name="MinSize" value="3" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="FREIGHT_SMALL">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="FREIGHT_MEDIUM">
+			<Property name="MinSize" value="12" />
+		</Property>
+		<Property name="Table" value="GcInventoryTableEntry" _id="FREIGHT_LARGE">
+			<Property name="MinSize" value="12" />
+		</Property>
+	</Property>
+	<Property name="GenerationData" value="GcInventoryLayoutGenerationData">
+		<Property name="GenerationDataPerSizeType">
+			<Property name="SciSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="29" />
+				<Property name="MinTechSlots" value="19" />
+			</Property>
+			<Property name="SciMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="32" />
+				<Property name="MinTechSlots" value="24" />
+			</Property>
+			<Property name="SciLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="38" />
+				<Property name="MinTechSlots" value="30" />
+			</Property>
+			<Property name="FgtSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="28" />
+				<Property name="MinTechSlots" value="19" />
+			</Property>
+			<Property name="FgtMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="32" />
+				<Property name="MinTechSlots" value="24" />
+			</Property>
+			<Property name="FgtLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="38" />
+				<Property name="MinTechSlots" value="30" />
+			</Property>
+			<Property name="ShuSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="32" />
+				<Property name="MinTechSlots" value="19" />
+			</Property>
+			<Property name="ShtMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="36" />
+				<Property name="MinTechSlots" value="26" />
+			</Property>
+			<Property name="ShtLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="42" />
+				<Property name="MinTechSlots" value="28" />
+			</Property>
+			<Property name="DrpSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="36" />
+				<Property name="MinTechSlots" value="18" />
+			</Property>
+			<Property name="DrpMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="40" />
+				<Property name="MinTechSlots" value="24" />
+			</Property>
+			<Property name="DrpLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="48" />
+				<Property name="MinTechSlots" value="30" />
+			</Property>
+			<Property name="RoySmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="30" />
+				<Property name="MinTechSlots" value="19" />
+			</Property>
+			<Property name="RoyMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="30" />
+				<Property name="MinTechSlots" value="28" />
+			</Property>
+			<Property name="RoyLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="32" />
+				<Property name="MinTechSlots" value="30" />
+			</Property>
+			<Property name="SailSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="30" />
+				<Property name="MinTechSlots" value="18" />
+			</Property>
+			<Property name="SailMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="32" />
+				<Property name="MinTechSlots" value="22" />
+			</Property>
+			<Property name="SailLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="36" />
+				<Property name="MinTechSlots" value="30" />
+			</Property>
+			<Property name="RobotSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="40" />
+				<Property name="MinTechSlots" value="28" />
+			</Property>
+			<Property name="RobotMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="40" />
+				<Property name="MinTechSlots" value="28" />
+			</Property>
+			<Property name="RobotLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="40" />
+				<Property name="MinTechSlots" value="28" />
+			</Property>
+			<Property name="WeaponSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="18" />
+				<Property name="MinTechSlots" value="18" />
+			</Property>
+			<Property name="WeaponMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="20" />
+				<Property name="MinTechSlots" value="20" />
+			</Property>
+			<Property name="WeaponLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="30" />
+				<Property name="MinTechSlots" value="30" />
+			</Property>
+			<Property name="FreighterSmall" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="19" />
+				<Property name="MinTechSlots" value="12" />
+			</Property>
+			<Property name="FreighterMedium" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="34" />
+				<Property name="MinTechSlots" value="20" />
+			</Property>
+			<Property name="FreighterLarge" value="GcInventoryLayoutGenerationDataEntry">
+				<Property name="MinSlots" value="48" />
+				<Property name="MinTechSlots" value="30" />
+			</Property>
+		</Property>
+	</Property>
+	<Property name="WeaponCostData">
+		<Property name="Pistol" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="Rifle" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="Pristine" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="Alien" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="Royal" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="Robot" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="Atlas" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="AtlasYellow" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="AtlasBlue" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+		<Property name="Staff" value="GcInventoryCostDataEntry">
+			<Property name="MinSlots" value="30" />
+		</Property>
+	</Property>
+	<Property name="VehicleCostData" value="GcInventoryCostDataEntry">
+		<Property name="MinSlots" value="48" />
+	</Property>
+	<Property name="ShipBaseStatsData">
+		<Property name="Freighter" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="FREI_HYPERDRIVE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="FREI_FLEET" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="FREI_HYPERDRIVE" /> -->
+							<Property name="Min" value="19.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="FREI_FLEET" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="FREI_HYPERDRIVE" /> -->
+							<Property name="Min" value="60.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="FREI_FLEET" /> -->
+							<Property name="Min" value="40.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="FREI_HYPERDRIVE" /> -->
+							<Property name="Min" value="80.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="FREI_FLEET" /> -->
+							<Property name="Min" value="60.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Dropship" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="8.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="55.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="75.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="37.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="125.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="58.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Fighter" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="75.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="90.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="38.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Scientific" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="16.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="85.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="40.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="120.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="32.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Shuttle" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="8.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="8.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="8.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Royal" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="60.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="65.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="60.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="65.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="60.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="65.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="75.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="90.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="95.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Alien" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="75.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="38.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="95.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="4">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Sail" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="60.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="38.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="75.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="40.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Robot" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="8.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="8.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="75.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="SHIP_DAMAGE" /> -->
+							<Property name="Min" value="80.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="SHIP_SHIELD" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="SHIP_HYPERDRIVE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="3">
+							<!-- <Property name="BaseStatID" value="SHIP_AGILE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+	<Property name="WeaponBaseStatsData">
+		<Property name="Pistol" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="40.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Rifle" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<Property name="BaseStatID" value="WEAPON_DAMAGE" />
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Pristine" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="70.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="90.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Alien" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="60.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Royal" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="70.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="90.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Robot" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="55.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Atlas" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="AtlasYellow" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="AtlasBlue" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+		<Property name="Staff" value="GcInventoryGenerationBaseStatData">
+			<Property name="BaseStatsPerClass">
+				<Property name="C" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="20.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="5.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="B" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="25.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="35.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="A" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="30.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="10.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="45.000000" />
+						</Property>
+					</Property>
+				</Property>
+				<Property name="S" value="GcInventoryGenerationBaseStatClassData">
+					<Property name="BaseStats">
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="0">
+							<!-- <Property name="BaseStatID" value="WEAPON_DAMAGE" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="1">
+							<!-- <Property name="BaseStatID" value="WEAPON_MINING" /> -->
+							<Property name="Min" value="15.000000" />
+						</Property>
+						<Property name="BaseStats" value="GcInventoryGenerationBaseStatDataEntry" _index="2">
+							<!-- <Property name="BaseStatID" value="WEAPON_SCAN" /> -->
+							<Property name="Min" value="50.000000" />
+						</Property>
+					</Property>
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+</Data>

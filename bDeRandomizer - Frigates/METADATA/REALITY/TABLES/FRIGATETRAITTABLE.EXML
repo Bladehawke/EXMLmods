@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcFrigateTraitTable">
+  <Property name="Traits">
+    <Property name="Traits" value="GcFrigateTraitData" _id="FUEL_BAD_1">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="FUEL_BAD_2">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="FUEL_BAD_3">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="FUEL_BAD_4">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="FUEL_BAD_5">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="COMBAT_BAD_1">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="COMBAT_BAD_2">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="COMBAT_BAD_3">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="COMBAT_BAD_4">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="COMBAT_BAD_5">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="MINING_BAD_1">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="MINING_BAD_2">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="MINING_BAD_3">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="MINING_BAD_4">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="MINING_BAD_5">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="TRADING_BAD_1">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="TRADING_BAD_2">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="TRADING_BAD_3">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="TRADING_BAD_4">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="TRADING_BAD_5">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Exploration" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="EXPLORE_BAD_1">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="EXPLORE_BAD_2">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="EXPLORE_BAD_3">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="EXPLORE_BAD_4">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+    <Property name="Traits" value="GcFrigateTraitData" _id="EXPLORE_BAD_5">
+      <Property name="ChanceOfBeingOffered">
+        <Property name="Combat" value="0" />
+        <Property name="Mining" value="0" />
+        <Property name="Diplomacy" value="0" />
+        <Property name="Support" value="0" />
+        <Property name="Pirate" value="0" />
+      </Property>
+    </Property>
+  </Property>
+</Data>

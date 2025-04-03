@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcProceduralProductTable">
+  <Property name="Table">
+    <Property name="FreighterTechHyp" value="GcProceduralProductData">
+      <Property name="DeployableProductID" value="U_FR_HYP4" />
+    </Property>
+    <Property name="FreighterTechSpeed" value="GcProceduralProductData">
+      <Property name="DeployableProductID" value="U_FR_SPE4" />
+    </Property>
+    <Property name="FreighterTechFuel" value="GcProceduralProductData">
+      <Property name="DeployableProductID" value="U_FR_FUEL4" />
+    </Property>
+    <Property name="FreighterTechTrade" value="GcProceduralProductData">
+      <Property name="DeployableProductID" value="U_FR_TRA4" />
+    </Property>
+    <Property name="FreighterTechCombat" value="GcProceduralProductData">
+      <Property name="DeployableProductID" value="U_FR_COM4" />
+    </Property>
+    <Property name="FreighterTechMine" value="GcProceduralProductData">
+      <Property name="DeployableProductID" value="U_FR_MINE4" />
+    </Property>
+    <Property name="FreighterTechExp" value="GcProceduralProductData">
+      <Property name="DeployableProductID" value="U_FR_EXP4" />
+    </Property>
+  </Property>
+</Data>

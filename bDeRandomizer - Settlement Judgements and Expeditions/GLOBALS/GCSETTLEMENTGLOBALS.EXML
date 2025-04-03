@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcSettlementGlobals">
+  <Property name="ConflictJudgementSelector" value="0.000000" />
+  <Property name="SettlementMiniExpeditionSuccessChance" value="1.000000" />
+</Data>

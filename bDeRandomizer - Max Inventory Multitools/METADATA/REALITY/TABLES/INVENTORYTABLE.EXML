@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcInventoryTable">
+  <Property name="Table">
+    <Property name="WeaponInventoryMaxUpgradeSize" value="GcWeaponInventoryMaxUpgradeCapacity">
+      <Property name="MaxInventoryCapacity">
+        <Property name="C" value="120" />
+        <Property name="B" value="120" />
+        <Property name="A" value="120" />
+        <Property name="S" value="120" />
+      </Property>
+    </Property>
+  </Property>
+</Data>

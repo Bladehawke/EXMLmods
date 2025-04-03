@@ -1,0 +1,3069 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version
+(5.61.0.1)-->
+<Data template="cGcProceduralTechnologyTable">
+  <Property name="Table">
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LASER1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Mining_Speed" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_HeatTime" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Drain" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LASER2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Mining_Speed" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_HeatTime" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Drain" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LASER3">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Mining_Speed" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_HeatTime" /> -->
+          <Property name="ValueMin" value="1.400000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Drain" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LASER4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Mining_Speed" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_HeatTime" /> -->
+          <Property name="ValueMin" value="1.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LASERX">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Mining_Speed" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_HeatTime" /> -->
+          <Property name="ValueMin" value="1.550000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Drain" /> -->
+          <Property name="ValueMin" value="1.250000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.750000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LASER0">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Mining_Speed" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_HeatTime" /> -->
+          <Property name="ValueMin" value="1.020000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Drain" /> -->
+          <Property name="ValueMin" value="1.020000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SCAN1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Radius" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Creature" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Flora" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Mineral" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SCAN2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Radius" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Creature" /> -->
+          <Property name="ValueMin" value="50.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Flora" /> -->
+          <Property name="ValueMin" value="50.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Mineral" /> -->
+          <Property name="ValueMin" value="50.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SCAN3">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Radius" /> -->
+          <Property name="ValueMin" value="1.300000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Creature" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Flora" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Mineral" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SCAN4">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Radius" /> -->
+          <Property name="ValueMin" value="1.400000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Creature" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Flora" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Mineral" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SCANX">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Radius" /> -->
+          <Property name="ValueMin" value="1.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Creature" /> -->
+          <Property name="ValueMin" value="110.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Flora" /> -->
+          <Property name="ValueMin" value="110.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Mineral" /> -->
+          <Property name="ValueMin" value="110.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SCAN0">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Radius" /> -->
+          <Property name="ValueMin" value="1.040000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Creature" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Flora" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Scan_Discovery_Mineral" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOLT1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMin" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOLT2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMin" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOLT3">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCap" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMin" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOLT4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCap" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOLTX">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="5.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ClipSize" /> -->
+          <Property name="ValueMin" value="10.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCap" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMin" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOLT0">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.960000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.020000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMin" value="0.980000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_GREN1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="200.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_GREN2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="300.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Bounce" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_GREN3">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="400.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Bounce" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_GREN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="400.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_GRENX">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="450.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Bounce" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TGREN1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="200.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TGREN2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="300.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.300000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TGREN3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="400.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TGREN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="400.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TGRENX">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Damage" /> -->
+          <Property name="ValueMin" value="450.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Radius" /> -->
+          <Property name="ValueMin" value="1.600000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Grenade_Speed" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAIL1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Damage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAIL2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Damage" /> -->
+          <Property name="ValueMin" value="50.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAIL3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Damage" /> -->
+          <Property name="ValueMin" value="60.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAIL4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Damage" /> -->
+          <Property name="ValueMin" value="75.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Laser_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAILX">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Laser_Damage" /> -->
+          <Property name="ValueMin" value="85.000000" />
+          <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+            <!-- <Property name="StatsType" value="Weapon_Laser_ChargeTime" /> -->
+            <Property name="ValueMax" value="0.750000" />
+          </Property>
+        </Property>
+      </Property>
+      <Property />
+      <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHOT1">
+        <Property name="NumStatsMin" value="2" />
+        <Property name="StatLevels">
+          <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+            <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+            <Property name="ValueMax" value="0.900000" />
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHOT2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHOT3">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHOT4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="5.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMin" value="0.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMax" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMin" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHOTX">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="6.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.700000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_BurstCooldown" /> -->
+          <Property name="ValueMax" value="0.750000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMG1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMG2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMG3">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <Property name="Stat" value="GcStatsTypes">
+            <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+            <Property name="ValueMax" value="0.900000" />
+          </Property>
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMG4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMGX">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_CANN1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="5.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ExtraSpeed" /> -->
+          <Property name="ValueMin" value="10.000000" />
+          <Property name="ValueMax" value="10.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_CANN2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="7.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ExtraSpeed" /> -->
+          <Property name="ValueMin" value="15.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_CANN3">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="12.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ExtraSpeed" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.700000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_CANN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="18.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ExtraSpeed" /> -->
+          <Property name="ValueMin" value="25.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.500000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_CANNX">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="18.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ExtraSpeed" /> -->
+          <Property name="ValueMin" value="25.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Weapon_ChargedProjectile_ChargeTime" /> -->
+          <Property name="ValueMax" value="0.500000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SENGUN">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Damage" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_ReloadTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_Projectile_Rate" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_ENGY1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Energy" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Energy_Regen" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_ENGY2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Energy" /> -->
+          <Property name="ValueMin" value="0.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Energy_Regen" /> -->
+          <Property name="ValueMin" value="1.250000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_ENGY3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Energy" /> -->
+          <Property name="ValueMin" value="1.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Energy_Regen" /> -->
+          <Property name="ValueMin" value="1.500000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_ENGYX">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Energy" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Energy_Regen" /> -->
+          <Property name="ValueMin" value="1.750000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_ENGY0">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Energy" /> -->
+          <Property name="ValueMin" value="0.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Energy_Regen" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HAZX">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_HeatDrain" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Protection_ColdDrain" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Protection_RadDrain" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Protection_ToxDrain" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HAZ0">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_HeatDrain" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Protection_ColdDrain" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Protection_RadDrain" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Protection_ToxDrain" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_JET1">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Tank" /> -->
+          <Property name="ValueMin" value="1.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Recovery" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Refill" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_JET2">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Tank" /> -->
+          <Property name="ValueMin" value="1.650000" />
+          <Property name="ValueMax" value="1.650000" />
+          <Property name="WeightingCurve" value="GcWeightingCurve">
+            <Property name="WeightingCurve" value="MaxIsUncommon" />
+          </Property>
+          <Property name="AlwaysChoose" value="true" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.300000" />
+          <Property name="ValueMax" value="0.300000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Recovery" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Ignition" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Refill" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_JET3">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Tank" /> -->
+          <Property name="ValueMin" value="2.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Recovery" /> -->
+          <Property name="ValueMin" value="1.300000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Ignition" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Refill" /> -->
+          <Property name="ValueMin" value="1.300000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_JET4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Tank" /> -->
+          <Property name="ValueMin" value="2.350000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Recovery" /> -->
+          <Property name="ValueMin" value="1.500000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Ignition" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Refill" /> -->
+          <Property name="ValueMin" value="1.350000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_JETX">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Tank" /> -->
+          <Property name="ValueMin" value="2.400000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.600000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Recovery" /> -->
+          <Property name="ValueMin" value="1.600000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.700000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Ignition" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Refill" /> -->
+          <Property name="ValueMin" value="1.400000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_JET0">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Tank" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Recovery" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Ignition" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Refill" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHLD1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.150000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHLD2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHLD3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.300000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHLD4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.350000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHLDX">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.350000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SHLD0">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SNSUIT">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.350000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Energy" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Energy_Regen" /> -->
+          <Property name="ValueMin" value="1.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.700000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.600000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RBSUIT">
+      <Property name="NumStatsMin" value="4" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Armour_Shield_Strength" /> -->
+          <Property name="ValueMax" value="0.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Suit_Energy" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="3">
+          <!-- <Property name="StatsType" value="Suit_Energy_Regen" /> -->
+          <Property name="ValueMin" value="1.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="4">
+          <!-- <Property name="StatsType" value="Suit_Jetpack_Drain" /> -->
+          <Property name="ValueMax" value="0.700000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="5">
+          <!-- <Property name="StatsType" value="Suit_Stamina_Strength" /> -->
+          <Property name="ValueMin" value="0.600000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_UNW1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Underwater" /> -->
+          <Property name="ValueMin" value="120.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_UNW2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Underwater" /> -->
+          <Property name="ValueMin" value="180.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_UNW3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Underwater" /> -->
+          <Property name="ValueMin" value="240.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAD1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Radiation" /> -->
+          <Property name="ValueMin" value="300.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Radiation" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAD2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Radiation" /> -->
+          <Property name="ValueMin" value="320.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Radiation" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_RAD3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Radiation" /> -->
+          <Property name="ValueMin" value="360.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Radiation" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TOX1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Toxic" /> -->
+          <Property name="ValueMin" value="300.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Toxic" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TOX2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Toxic" /> -->
+          <Property name="ValueMin" value="320.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Toxic" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_TOX3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Toxic" /> -->
+          <Property name="ValueMin" value="360.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Toxic" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_COLD1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Cold" /> -->
+          <Property name="ValueMin" value="300.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Cold" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_COLD2">
+    </Property>
+    <Property name="StatLevels">
+      <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+        <!-- <Property name="StatsType" value="Suit_Protection_Cold" /> -->
+        <Property name="ValueMin" value="320.000000" />
+      </Property>
+      <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+        <!-- <Property name="StatsType" value="Suit_DamageReduce_Cold" /> -->
+        <Property name="ValueMin" value="0.850000" />
+        <Property name="ValueMax" value="0.850000" />
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_COLD3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Cold" /> -->
+          <Property name="ValueMin" value="360.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Cold" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HOT1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Heat" /> -->
+          <Property name="ValueMin" value="300.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Heat" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HOT2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Heat" /> -->
+          <Property name="ValueMin" value="320.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Heat" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HOT3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Suit_Protection_Heat" /> -->
+          <Property name="ValueMin" value="360.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Suit_DamageReduce_Heat" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_PULSE1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.075000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_PULSE2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.120000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_PULSE3">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.160000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_PULSE4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.250000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.180000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_PULSEX">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.300000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_PULSE0">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LAUN1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LAUN2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LAUN3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.080000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LAUN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LAUNX">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMax" value="0.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_LAUN0">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HYP1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HYP2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="165.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HYP3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="220.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HYP4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="265.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HYPX">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="320.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_HYP0">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="25.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_S_SHL1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_S_SHL2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_S_SHL3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_S_SHL4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_S_SHLX">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.250000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_S_SHL0">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SGUN1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="16.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.011000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.010000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SGUN2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.016000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.020000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SGUN3">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="24.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.021000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SGUN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="28.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SGUNX">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="32.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.026000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.035000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SGUN0">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="4.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.003000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.005000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SLASR1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.350000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SLASR2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.550000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="50.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SLASR3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="60.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SLASR4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="70.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SLASRX">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="80.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SSHOT1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="3.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.040000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.040000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SSHOT2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="5.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.060000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.060000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SSHOT3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="6.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SSHOT4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="8.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SSHOTX">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="8.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMINI1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="6.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMINI2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="10.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMINI3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="12.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.070000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMINI4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="12.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.090000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SMINIX">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="14.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.130000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SBLOB1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="6.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SBLOB2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="10.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.250000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SBLOB3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="12.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.300000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SBLOB4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="12.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.350000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SBLOBX">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="14.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.400000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXGUN1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="10.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.970000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXGUN2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXGUN3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="30.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.930000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXGUN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXLAS1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_LaserDamage" /> -->
+          <Property name="ValueMin" value="10.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_LaserHeatTime" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXLAS2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_LaserDamage" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_LaserHeatTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXLAS3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_LaserDamage" /> -->
+          <Property name="ValueMin" value="30.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_LaserHeatTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXLAS4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_LaserDamage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_LaserHeatTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOOST1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_BoostSpeed" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_BoostTanks" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOOST2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_BoostSpeed" /> -->
+          <Property name="ValueMin" value="0.350000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_BoostTanks" /> -->
+          <Property name="ValueMin" value="0.300000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOOST3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_BoostSpeed" /> -->
+          <Property name="ValueMin" value="0.550000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_BoostTanks" /> -->
+          <Property name="ValueMin" value="0.500000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_BOOST4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_BoostSpeed" /> -->
+          <Property name="ValueMin" value="0.700000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_BoostTanks" /> -->
+          <Property name="ValueMin" value="0.600000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXENG1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_EngineTopSpeed" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXENG2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_EngineTopSpeed" /> -->
+          <Property name="ValueMin" value="1.080000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXENG3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_EngineTopSpeed" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXENG4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_EngineTopSpeed" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXSUB1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_EngineTopSpeed" /> -->
+          <Property name="ValueMin" value="1.040000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_SubBoostSpeed" /> -->
+          <Property name="ValueMin" value="0.150000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXSUB2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_EngineTopSpeed" /> -->
+          <Property name="ValueMin" value="1.060000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_SubBoostSpeed" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXSUB3">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_EngineTopSpeed" /> -->
+          <Property name="ValueMin" value="1.075000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_SubBoostSpeed" /> -->
+          <Property name="ValueMin" value="0.250000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_EXSUB4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.700000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_SubBoostSpeed" /> -->
+          <Property name="ValueMin" value="0.300000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SUGUN1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="10.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.970000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SUGUN2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SUGUN3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="30.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.930000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_SUGUN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCLAS2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_LaserDamage" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_LaserHeatTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCLAS3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_LaserDamage" /> -->
+          <Property name="ValueMin" value="30.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_LaserHeatTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCLAS4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_LaserDamage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_LaserHeatTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MFIRE2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="1.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_FireDOT_Duration" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MFIRE3">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_FireDOT_Duration" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MFIRE4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="2.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.700000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Weapon_FireDOT_Duration" /> -->
+          <Property name="ValueMin" value="1.350000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCGUN2">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCGUN3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="30.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.930000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCGUN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_GunDamage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_GunHeatTime" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Vehicle_GunRate" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCENG2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_BoostTanks" /> -->
+          <Property name="ValueMin" value="0.150000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCENG3">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_BoostTanks" /> -->
+          <Property name="ValueMin" value="0.250000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_MCENG4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Vehicle_EngineFuelUse" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Vehicle_BoostTanks" /> -->
+          <Property name="ValueMin" value="0.300000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_PULSE1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.075000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_PULSE2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.150000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.120000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_PULSE3">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_PulseDrive_MiniJumpFuelSpending" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.200000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.160000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_PULSE4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Boost" /> -->
+          <Property name="ValueMin" value="1.250000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_BoostManeuverability" /> -->
+          <Property name="ValueMin" value="1.180000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_LAUN1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMin" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_LAUN2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_LAUN3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Launcher_TakeOffCost" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_HYP1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_HYP2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="165.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_HYP3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="220.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_HYP4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="265.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_S_SHL1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_S_SHL2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_S_SHL3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Armour_Shield_Strength" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SGUN1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="16.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.011000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.010000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SGUN2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="20.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.016000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.020000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SGUN3">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="24.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Rate" /> -->
+          <Property name="ValueMin" value="1.021000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_HeatTime" /> -->
+          <Property name="ValueMin" value="1.030000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SGUN4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Guns_Damage" /> -->
+          <Property name="ValueMin" value="28.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SLASR1">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.350000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="40.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_ShieldLeech" /> -->
+          <Property name="ValueMin" value="0.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SLASR2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.550000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="50.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_ShieldLeech" /> -->
+          <Property name="ValueMin" value="0.150000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SLASR3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.750000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="60.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_ShieldLeech" /> -->
+          <Property name="ValueMin" value="0.200000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UA_SLASR4">
+      <Property name="NumStatsMin" value="3" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_HeatTime" /> -->
+          <Property name="ValueMin" value="1.950000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="1">
+          <!-- <Property name="StatsType" value="Ship_Weapons_Lasers_Damage" /> -->
+          <Property name="ValueMin" value="70.000000" />
+        </Property>
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="2">
+          <!-- <Property name="StatsType" value="Ship_Weapons_ShieldLeech" /> -->
+          <Property name="ValueMin" value="0.300000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="100.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP2">
+      <Property name="NumStatsMin" value="2" />
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="150.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="200.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRHYP4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Hyperdrive_JumpDistance" /> -->
+          <Property name="ValueMin" value="250.000000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRSPE1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Speed" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRSPE2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Speed" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRSPE3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Speed" /> -->
+          <Property name="ValueMin" value="1.140000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRFUE1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Fuel" /> -->
+          <Property name="ValueMax" value="0.950000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRFUE2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Fuel" /> -->
+          <Property name="ValueMax" value="0.900000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRFUE3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Fuel" /> -->
+          <Property name="ValueMax" value="0.850000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRFUE4">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Fuel" /> -->
+          <Property name="ValueMax" value="0.800000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRCOM1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Combat" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRCOM2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Combat" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRCOM3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Combat" /> -->
+          <Property name="ValueMin" value="1.140000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRTRA1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Trade" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRTRA2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Trade" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRTRA3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Trade" /> -->
+          <Property name="ValueMin" value="1.140000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FREXP1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Explore" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FREXP2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Explore" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FREXP3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Explore" /> -->
+          <Property name="ValueMin" value="1.140000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRMIN1">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Mine" /> -->
+          <Property name="ValueMin" value="1.050000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRMIN2">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Mine" /> -->
+          <Property name="ValueMin" value="1.100000" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Table" value="GcProceduralTechnologyData" _id="UP_FRMIN3">
+      <Property name="StatLevels">
+        <Property name="StatLevels" value="GcProceduralTechnologyStatLevel" _index="0">
+          <!-- <Property name="StatsType" value="Freighter_Fleet_Mine" /> -->
+          <Property name="ValueMin" value="1.140000" />
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Data>

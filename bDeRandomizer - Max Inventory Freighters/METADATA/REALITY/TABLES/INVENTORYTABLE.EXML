@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcInventoryTable">
+	<Property name="Table">
+		<Property name="GenerationData" value="GcInventoryLayoutGenerationData">
+			<Property name="GenerationDataPerSizeType">
+				<Property name="FreighterSmall" value="GcInventoryLayoutGenerationDataEntry">
+					<Property name="MinSlots" value="120" />
+					<Property name="MaxSlots" value="120" />
+					<Property name="MinTechSlots" value="60" />
+					<Property name="MaxTechSlots" value="60" />
+				</Property>
+				<Property name="FreighterMedium" value="GcInventoryLayoutGenerationDataEntry">
+					<Property name="MinSlots" value="120" />
+					<Property name="MaxSlots" value="120" />
+					<Property name="MinTechSlots" value="60" />
+					<Property name="MaxTechSlots" value="60" />
+				</Property>
+				<Property name="FreighterLarge" value="GcInventoryLayoutGenerationDataEntry">
+					<Property name="MinSlots" value="120" />
+					<Property name="MaxSlots" value="120" />
+					<Property name="MinTechSlots" value="60" />
+					<Property name="MaxTechSlots" value="60" />
+				</Property>
+			</Property>
+		</Property>
+		<Property name="ShipInventoryMaxUpgradeSize">
+			<Property name="Freighter" value="GcShipInventoryMaxUpgradeCapacity">
+				<Property name="MaxInventoryCapacity">
+					<Property name="C" value="120" />
+					<Property name="B" value="120" />
+					<Property name="A" value="120" />
+					<Property name="S" value="120" />
+				</Property>
+				<Property name="MaxTechInventoryCapacity">
+					<Property name="C" value="60" />
+					<Property name="B" value="60" />
+					<Property name="A" value="60" />
+					<Property name="S" value="60" />
+				</Property>
+			</Property>
+			<Property name="PlayerFreighter" value="GcShipInventoryMaxUpgradeCapacity">
+				<Property name="MaxInventoryCapacity">
+					<Property name="C" value="120" />
+					<Property name="B" value="120" />
+					<Property name="A" value="120" />
+					<Property name="S" value="120" />
+				</Property>
+				<Property name="MaxTechInventoryCapacity">
+					<Property name="C" value="60" />
+					<Property name="B" value="60" />
+					<Property name="A" value="60" />
+					<Property name="S" value="60" />
+				</Property>
+			</Property>
+		</Property>
+	</Property>
+</Data>

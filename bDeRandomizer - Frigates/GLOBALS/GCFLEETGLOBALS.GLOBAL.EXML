@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcFleetGlobals">
+<Property name="PercentChangeOfFrigateBeingPurchasable" value="100" />
+<Property name="PercentChanceOfFrigateAdditionalSpawnedTrait" value="100" />
+<Property name="FrigateInitialStats" value="GcFrigateStatsByClass">
+  <Property name="FrigateClass">
+    <Property name="Combat" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="5" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="2" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="2" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="8" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Exploration" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="2" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="5" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="2" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="8" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Mining" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="3" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="1" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="5" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="3" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="8" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Diplomacy" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="1" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="2" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="5" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="8" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Support" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="2" />
+        </Property>
+        <Property name="FuelCapacity" value="GcFrigateStatRange">
+          <Property name="Minimum" value="5" />
+        </Property>
+      </Property>
+      <Property name="InitialTrait" value="FUEL_PRI" />
+    </Property>
+    <Property name="Normandy" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Stealth" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="DeepSpaceCommon" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="3" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="3" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="3" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="3" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="8" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="Pirate" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="5" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="2" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="2" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="8" />
+        </Property>
+      </Property>
+    </Property>
+    <Property name="GhostShip" value="GcFrigateStats">
+      <Property name="Stats">
+        <Property name="Combat" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Exploration" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Mining" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Diplomatic" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="FuelBurnRate" value="GcFrigateStatRange">
+          <Property name="Maximum" value="0" />
+        </Property>
+        <Property name="FuelCapacity" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Speed" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="ExtraLoot" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Repair" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Invulnerable" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+        <Property name="Stealth" value="GcFrigateStatRange">
+          <Property name="Minimum" value="4" />
+        </Property>
+      </Property>
+    </Property>
+  </Property>
+</Property>
+</Data>
