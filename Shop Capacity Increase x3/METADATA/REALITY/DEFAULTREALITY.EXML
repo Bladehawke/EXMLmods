@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcRealityManagerData">
+  <Property name="TradeSettings" value="GcTradeSettings">
+    <Property name="ShipTechSpecialist" value="GcTradeData">
+      <Property name="MinAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+      <Property name="MaxAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+    </Property>
+    <Property name="SuitTechSpecialist" value="GcTradeData">
+      <Property name="MinAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+      <Property name="MaxAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+    </Property>
+    <Property name="WeapTechSpecialist" value="GcTradeData">
+      <Property name="MinAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+      <Property name="MaxAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+    </Property>
+    <Property name="VehicleTechSpecialist" value="GcTradeData">
+      <Property name="MinAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+      <Property name="MaxAmountOfProductAvailable">
+        <Property name="Poor" value="3" />
+        <Property name="Average" value="3" />
+        <Property name="Wealthy" value="3" />
+        <Property name="Pirate" value="3" />
+      </Property>
+    </Property>
+  </Property>
+</Data>
