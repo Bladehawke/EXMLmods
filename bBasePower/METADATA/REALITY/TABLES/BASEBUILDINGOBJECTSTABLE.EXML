@@ -2,7 +2,9 @@
 <Data template="cGcBaseBuildingTable">
   <Property name="Objects">
     <Property name="Objects" value="GcBaseBuildingEntry" _id="U_SOLAR_S">
-      <Property name="Rate" value="200" />
+      <Property name="LinkGridData" value="GcBaseLinkGridData">
+        <Property name="Rate" value="200" />
+      </Property>
     </Property>
     <Property name="Objects" value="GcBaseBuildingEntry" _id="U_BIOGENERATOR">
       <Property name="LinkGridData" value="GcBaseLinkGridData">
