@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcInventoryTable">
+  <Property name="GenerationData" value="GcInventoryLayoutGenerationData">
+    <Property name="GenerationDataPerSizeType">
+      <Property name="ChestSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+      </Property>
+      <Property name="ChestMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+      </Property>
+      <Property name="ChestLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+      </Property>
+      <Property name="ChestCapsule" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+      </Property>
+    </Property>
+  </Property>
+</Data>
