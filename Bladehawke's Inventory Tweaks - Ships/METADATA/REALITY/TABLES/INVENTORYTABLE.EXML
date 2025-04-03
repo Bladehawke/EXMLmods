@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcInventoryTable">
+  <Property name="GenerationData" value="GcInventoryLayoutGenerationData">
+    <Property name="GenerationDataPerSizeType">
+      <Property name="SciSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="SciMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="SciLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="FgtSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="FgtMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="FgtLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="ShuSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="ShuMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="ShuLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="DrpSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="DrpMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="DrpLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="RoySmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="RoyMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="RoyLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="AlienSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="AlienMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="AlienLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="SailSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="SailMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="SailLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="RobotSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="RobotMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="RobotLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+    </Property>
+  </Property>
+</Data>

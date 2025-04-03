@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcInventoryTable">
+  <Property name="GenerationData" value="GcInventoryLayoutGenerationData">
+    <Property name="GenerationDataPerSizeType">
+      <Property name="WeaponSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="60" />
+        <Property name="MaxSlots" value="60" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="WeaponMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="60" />
+        <Property name="MaxSlots" value="60" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="WeaponLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="60" />
+        <Property name="MaxSlots" value="60" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+    </Property>
+  </Property>
+</Data>

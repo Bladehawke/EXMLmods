@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="cGcInventoryTable">
+  <Property name="GenerationData" value="GcInventoryLayoutGenerationData">
+    <Property name="GenerationDataPerSizeType">
+      <Property name="FreighterSmall" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="FreighterMedium" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+      <Property name="FreighterLarge" value="GcInventoryLayoutGenerationDataEntry">
+        <Property name="MinSlots" value="120" />
+        <Property name="MaxSlots" value="120" />
+        <Property name="MinTechSlots" value="60" />
+        <Property name="MaxTechSlots" value="60" />
+      </Property>
+    </Property>
+  </Property>
+</Data>
